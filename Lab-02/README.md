@@ -1,1 +1,31 @@
 
+# Lab 02 - Exploratory Data Analysis
+
+## Aim
+To perform exploratory data analysis and visualize the dataset using Python.
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Files Included
+- EDA.LAB2.ipynb
+
+## Concepts Covered
+- Data Inspection
+- Data Cleaning
+- Summary Statistics
+- Correlation Analysis
+- Data Visualization
+- Feature Analysis
+
+## Outcome
+Successfully analyzed the dataset and generated visual insights using EDA techniques.
+
+## Author
+Santanu Mondal
+B.Tech CSE (AI & ML)

@@ -1,5 +1,5 @@
 
-Encoding Techniques :
+#Encoding Techniques :
 
 1. lavel encoding
 2. ordinal encoding

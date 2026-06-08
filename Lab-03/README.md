@@ -1,6 +1,6 @@
 ## Lab 03 - Exploratory Data Analysis
 
-### - Encoding Techniques :
+ - Encoding Techniques :
 
 1. lavel encoding
 2. ordinal encoding

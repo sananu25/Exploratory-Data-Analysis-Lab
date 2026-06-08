@@ -21,7 +21,7 @@ To perform exploratory data analysis and visualize the dataset using Python.
 - Summary Statistics
 - Correlation Analysis
 - Data Visualization
-- Feature Analysis
+- Mean and Median imputation
 
 ## Outcome
 Successfully analyzed the dataset and generated visual insights using EDA techniques.

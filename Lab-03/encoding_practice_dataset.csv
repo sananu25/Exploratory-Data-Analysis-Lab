@@ -1,0 +1,1001 @@
+user_id,gender,education_level,job_role,city,marital_status,device_type,subscription_plan,payment_method,monthly_income,tenure_months,churn
+U1,Male,High School,Sales,City_38,Divorced,Mobile,Standard,Wallet,37784,24,0
+U2,Female,Bachelor,Doctor,City_18,Married,Tablet,Standard,UPI,127167,27,0
+U3,Female,Master,Sales,City_26,Married,Tablet,Free,Cash,82359,37,1
+U4,Female,Bachelor,Consultant,City_6,Widowed,Mobile,Standard,Wallet,93608,39,0
+U5,Male,Master,HR,City_4,Divorced,Laptop,Premium,Net Banking,30111,63,0
+U6,Male,Bachelor,Analyst,City_44,Divorced,Laptop,Standard,Debit Card,39161,26,0
+U7,Male,Bachelor,HR,City_29,Single,Mobile,Free,Cash,133920,65,1
+U8,Female,Master,Technician,City_34,Widowed,Laptop,Basic,Debit Card,119823,4,0
+U9,Female,High School,Analyst,City_17,Single,Laptop,Basic,Credit Card,140014,29,0
+U10,Female,Bachelor,Technician,City_43,Divorced,Laptop,Basic,Wallet,145466,1,0
+U11,Male,High School,Manager,City_43,Single,Tablet,Free,Credit Card,82313,50,0
+U12,Other,PhD,Consultant,City_16,Divorced,Tablet,Free,Cash,95308,11,0
+U13,Female,PhD,Manager,City_2,Divorced,Mobile,Standard,Debit Card,61389,59,0
+U14,Male,High School,Teacher,City_34,Single,Tablet,Standard,Debit Card,122800,62,1
+U15,Male,Bachelor,HR,City_8,Single,Laptop,Free,Wallet,134547,36,0
+U16,Male,Master,Technician,City_13,Married,Tablet,Premium,Cash,39502,56,0
+U17,Male,High School,Clerk,City_42,Married,Mobile,Free,Net Banking,50757,21,1
+U18,Female,Bachelor,Manager,City_8,Married,Tablet,Standard,Net Banking,56111,13,0
+U19,Male,Master,Teacher,City_30,Divorced,Laptop,Standard,Wallet,113273,9,1
+U20,Male,High School,Engineer,City_32,Single,Laptop,Standard,Cash,73645,11,0
+U21,Female,Bachelor,Sales,City_36,Widowed,Mobile,Premium,Wallet,125218,70,0
+U22,Male,Diploma,Analyst,City_47,Divorced,Tablet,Free,Cash,74055,1,0
+U23,Male,Master,Teacher,City_30,Widowed,Tablet,Standard,Credit Card,134815,70,0
+U24,Male,PhD,Consultant,City_1,Single,Tablet,Free,Wallet,116026,56,0
+U25,Male,PhD,Manager,City_43,Divorced,Laptop,Standard,Cash,85192,31,1
+U26,Female,Bachelor,Consultant,City_39,Widowed,Mobile,Standard,Net Banking,67021,37,1
+U27,Male,Master,Sales,City_17,Widowed,Tablet,Standard,Cash,44092,47,0
+U28,Female,Master,Clerk,City_20,Married,Laptop,Free,Cash,147314,47,0
+U29,Female,Diploma,HR,City_24,Married,Laptop,Standard,Wallet,121843,69,0
+U30,Male,Master,HR,City_50,Married,Laptop,Free,Credit Card,147903,58,1
+U31,Female,High School,Consultant,City_22,Divorced,Tablet,Free,Credit Card,65721,36,0
+U32,Male,Bachelor,Technician,City_29,Single,Tablet,Standard,Credit Card,43511,32,0
+U33,Male,High School,Clerk,City_22,Single,Tablet,Basic,Credit Card,87782,64,0
+U34,Female,High School,HR,City_44,Married,Tablet,Standard,UPI,112003,71,0
+U35,Other,High School,Clerk,City_9,Married,Tablet,Basic,Wallet,70568,42,1
+U36,Female,Bachelor,Teacher,City_37,Married,Tablet,Free,Debit Card,149304,48,0
+U37,Male,Diploma,Clerk,City_10,Widowed,Tablet,Standard,Wallet,117062,30,0
+U38,Male,Bachelor,Doctor,City_36,Married,Tablet,Basic,UPI,119301,21,0
+U39,Female,High School,Sales,City_37,Widowed,Tablet,Free,Credit Card,66507,60,0
+U40,Male,Diploma,HR,City_28,Single,Laptop,Standard,UPI,139277,13,0
+U41,Male,Bachelor,Clerk,City_28,Divorced,Tablet,Basic,Net Banking,144999,1,0
+U42,Female,Master,Consultant,City_42,Divorced,Mobile,Basic,Net Banking,115128,65,0
+U43,Male,Diploma,Engineer,City_43,Divorced,Laptop,Basic,Wallet,25683,33,0
+U44,Female,Bachelor,Doctor,City_21,Divorced,Tablet,Standard,Wallet,38664,38,0
+U45,Male,Master,Doctor,City_24,Widowed,Mobile,Standard,Debit Card,117364,25,0
+U46,Female,Bachelor,Technician,City_42,Widowed,Tablet,Standard,Debit Card,79340,26,1
+U47,Male,High School,Clerk,City_40,Married,Mobile,Free,Net Banking,102236,59,0
+U48,Female,High School,Technician,City_2,Widowed,Mobile,Standard,Credit Card,26017,33,0
+U49,Female,Master,Technician,City_8,Married,Mobile,Standard,UPI,51613,41,0
+U50,Male,High School,Engineer,City_48,Married,Mobile,Standard,Debit Card,45348,30,0
+U51,Other,Master,Teacher,City_27,Divorced,Laptop,Basic,Cash,24491,57,0
+U52,Female,Bachelor,Clerk,City_22,Widowed,Laptop,Standard,Debit Card,136070,49,1
+U53,Female,PhD,Manager,City_37,Widowed,Mobile,Standard,Credit Card,73759,48,0
+U54,Female,Master,HR,City_27,Married,Tablet,Free,Credit Card,147040,49,0
+U55,Female,PhD,Technician,City_29,Married,Mobile,Basic,Wallet,15368,47,1
+U56,Female,Diploma,Sales,City_3,Single,Laptop,Standard,UPI,50010,56,0
+U57,Male,Master,Analyst,City_44,Single,Tablet,Free,Credit Card,50851,65,1
+U58,Male,Diploma,Sales,City_13,Married,Laptop,Premium,Debit Card,137761,12,0
+U59,Male,Bachelor,Engineer,City_45,Single,Laptop,Standard,Debit Card,142152,69,1
+U60,Male,Bachelor,Engineer,City_10,Single,Tablet,Basic,Net Banking,93858,6,1
+U61,Male,Master,Consultant,City_36,Married,Mobile,Free,Credit Card,82005,65,1
+U62,Male,PhD,Teacher,City_9,Married,Mobile,Free,Cash,52493,25,1
+U63,Female,Master,HR,City_27,Widowed,Mobile,Premium,Wallet,25292,1,1
+U64,Male,Diploma,Technician,City_34,Married,Mobile,Free,UPI,107377,32,0
+U65,Male,Diploma,Sales,City_1,Married,Tablet,Standard,Cash,116735,3,0
+U66,Female,Bachelor,Analyst,City_32,Divorced,Tablet,Basic,Wallet,37912,49,0
+U67,Male,High School,Engineer,City_25,Widowed,Tablet,Free,Debit Card,95771,19,0
+U68,Female,High School,Engineer,City_29,Widowed,Laptop,Free,Cash,122293,60,1
+U69,Male,Diploma,Teacher,City_7,Widowed,Tablet,Basic,Wallet,114083,29,0
+U70,Other,Diploma,Analyst,City_49,Divorced,Mobile,Premium,Debit Card,128655,50,1
+U71,Female,Diploma,Analyst,City_3,Married,Laptop,Basic,Debit Card,112459,2,1
+U72,Male,High School,Teacher,City_20,Widowed,Mobile,Basic,Debit Card,126695,56,0
+U73,Male,High School,Engineer,City_20,Widowed,Mobile,Free,Debit Card,49268,17,0
+U74,Female,High School,HR,City_30,Single,Tablet,Basic,Debit Card,122338,60,0
+U75,Female,PhD,Clerk,City_35,Widowed,Tablet,Basic,Net Banking,41336,36,0
+U76,Female,Diploma,Clerk,City_35,Married,Mobile,Standard,Cash,18641,61,0
+U77,Female,Diploma,Teacher,City_49,Married,Mobile,Basic,Wallet,102132,17,1
+U78,Male,Bachelor,Analyst,City_39,Single,Laptop,Basic,Net Banking,47959,49,1
+U79,Male,High School,Technician,City_27,Widowed,Tablet,Free,Net Banking,89123,60,0
+U80,Male,PhD,Teacher,City_26,Widowed,Laptop,Premium,Credit Card,36498,20,0
+U81,Female,Master,HR,City_14,Widowed,Laptop,Free,Credit Card,85198,50,0
+U82,Female,High School,Teacher,City_17,Divorced,Laptop,Free,Credit Card,42197,3,0
+U83,Male,Diploma,Doctor,City_18,Widowed,Mobile,Standard,UPI,123775,43,0
+U84,Male,Master,Sales,City_45,Married,Laptop,Basic,Credit Card,40032,57,0
+U85,Male,PhD,Analyst,City_29,Married,Laptop,Basic,Wallet,74624,50,0
+U86,Male,Bachelor,Consultant,City_20,Divorced,Mobile,Basic,Net Banking,93177,68,0
+U87,Female,Bachelor,Consultant,City_27,Divorced,Tablet,Standard,Wallet,56964,50,1
+U88,Female,High School,Analyst,City_18,Widowed,Tablet,Free,Cash,126030,37,0
+U89,Female,PhD,HR,City_4,Single,Laptop,Standard,Credit Card,69646,46,0
+U90,Male,High School,Doctor,City_1,Divorced,Mobile,Basic,UPI,96187,42,0
+U91,Male,PhD,Doctor,City_50,Divorced,Tablet,Basic,Cash,132399,15,0
+U92,Female,Bachelor,Engineer,City_1,Widowed,Laptop,Basic,UPI,71747,33,0
+U93,Female,Bachelor,Sales,City_26,Widowed,Laptop,Free,Cash,60712,11,0
+U94,Female,Bachelor,Clerk,City_45,Divorced,Mobile,Standard,Net Banking,86820,20,0
+U95,Female,High School,Manager,City_20,Single,Laptop,Basic,Wallet,140342,24,0
+U96,Female,High School,HR,City_23,Divorced,Tablet,Free,Debit Card,106228,64,0
+U97,Female,High School,Manager,City_10,Widowed,Mobile,Basic,Wallet,89353,65,0
+U98,Male,High School,Manager,City_11,Widowed,Tablet,Premium,Credit Card,107091,17,0
+U99,Male,Master,Analyst,City_41,Divorced,Tablet,Basic,Debit Card,100914,61,0
+U100,Male,Diploma,Consultant,City_41,Single,Tablet,Premium,UPI,121718,15,1
+U101,Male,High School,Consultant,City_5,Divorced,Laptop,Free,Net Banking,26539,51,1
+U102,Female,PhD,Clerk,City_1,Divorced,Laptop,Free,Net Banking,61219,27,0
+U103,Male,Master,Analyst,City_17,Widowed,Tablet,Free,UPI,28334,61,0
+U104,Female,Master,Manager,City_22,Single,Tablet,Basic,Credit Card,22903,58,0
+U105,Female,PhD,Technician,City_34,Married,Mobile,Free,UPI,73008,31,1
+U106,Male,High School,Consultant,City_45,Single,Mobile,Free,Cash,114318,12,0
+U107,Male,Diploma,HR,City_41,Divorced,Laptop,Premium,Credit Card,82300,46,0
+U108,Female,Master,HR,City_29,Divorced,Laptop,Standard,Debit Card,144263,31,0
+U109,Male,Bachelor,Engineer,City_4,Divorced,Mobile,Standard,UPI,35842,32,0
+U110,Male,High School,Teacher,City_5,Single,Tablet,Free,Credit Card,57372,32,0
+U111,Male,Master,Technician,City_11,Widowed,Laptop,Free,Debit Card,129316,53,0
+U112,Male,High School,Consultant,City_21,Divorced,Tablet,Free,UPI,113971,61,0
+U113,Female,High School,Doctor,City_35,Divorced,Mobile,Standard,Net Banking,53744,46,1
+U114,Female,Bachelor,Consultant,City_12,Single,Laptop,Premium,UPI,131082,7,0
+U115,Female,Bachelor,Engineer,City_26,Married,Laptop,Basic,Wallet,72442,4,0
+U116,Female,Bachelor,HR,City_19,Married,Mobile,Free,UPI,144070,52,0
+U117,Female,High School,Manager,City_45,Widowed,Laptop,Basic,Wallet,100990,31,0
+U118,Male,Master,Doctor,City_7,Widowed,Mobile,Free,Debit Card,136670,36,0
+U119,Female,Diploma,Analyst,City_47,Divorced,Laptop,Basic,UPI,121917,54,1
+U120,Female,High School,Sales,City_7,Single,Mobile,Basic,Debit Card,18650,54,0
+U121,Female,Master,Manager,City_26,Divorced,Laptop,Standard,Debit Card,60117,17,1
+U122,Female,PhD,Sales,City_40,Widowed,Tablet,Free,Credit Card,106244,30,0
+U123,Male,Master,Technician,City_5,Single,Tablet,Free,Debit Card,18190,22,0
+U124,Male,Master,Teacher,City_21,Single,Tablet,Premium,Debit Card,63113,43,1
+U125,Male,Bachelor,Doctor,City_14,Widowed,Laptop,Free,UPI,47125,27,0
+U126,Male,Bachelor,Clerk,City_4,Married,Laptop,Free,UPI,145000,37,0
+U127,Female,High School,Doctor,City_23,Married,Tablet,Free,Net Banking,126904,46,0
+U128,Female,Diploma,Consultant,City_42,Single,Tablet,Free,Credit Card,33768,35,0
+U129,Male,Diploma,HR,City_20,Divorced,Mobile,Basic,Debit Card,96099,4,0
+U130,Female,Diploma,Consultant,City_15,Married,Mobile,Standard,Credit Card,102421,26,0
+U131,Male,Bachelor,Consultant,City_50,Divorced,Mobile,Free,Wallet,21895,19,0
+U132,Male,Bachelor,Technician,City_45,Married,Tablet,Basic,Debit Card,86017,45,0
+U133,Male,High School,Manager,City_29,Married,Tablet,Standard,Credit Card,38932,26,0
+U134,Male,High School,Clerk,City_8,Divorced,Tablet,Basic,Net Banking,36360,22,1
+U135,Female,Bachelor,Clerk,City_41,Widowed,Mobile,Standard,Net Banking,69847,58,1
+U136,Male,High School,Consultant,City_48,Married,Laptop,Standard,Debit Card,105365,63,0
+U137,Female,Master,Sales,City_19,Married,Tablet,Free,Wallet,100468,28,1
+U138,Female,Bachelor,Technician,City_48,Divorced,Laptop,Standard,Net Banking,53931,65,0
+U139,Male,Bachelor,Consultant,City_39,Widowed,Laptop,Basic,Net Banking,70823,44,1
+U140,Other,Bachelor,Teacher,City_46,Married,Laptop,Premium,Wallet,53032,43,0
+U141,Other,Master,HR,City_28,Married,Mobile,Basic,Credit Card,33807,37,0
+U142,Male,Diploma,Manager,City_46,Widowed,Laptop,Premium,Net Banking,68413,66,1
+U143,Female,Bachelor,Analyst,City_27,Married,Tablet,Standard,UPI,30540,17,0
+U144,Male,Bachelor,Teacher,City_4,Widowed,Mobile,Free,Cash,85248,40,0
+U145,Male,Diploma,Sales,City_15,Widowed,Tablet,Basic,Cash,125494,38,1
+U146,Male,Master,Doctor,City_35,Divorced,Tablet,Premium,Net Banking,100435,61,1
+U147,Female,Master,Doctor,City_37,Single,Mobile,Standard,Credit Card,34787,9,1
+U148,Female,Bachelor,Teacher,City_1,Widowed,Tablet,Free,Credit Card,35982,61,0
+U149,Male,Master,Consultant,City_3,Divorced,Tablet,Standard,Debit Card,37606,16,0
+U150,Male,Master,Analyst,City_47,Single,Mobile,Free,UPI,127223,2,0
+U151,Female,Bachelor,Engineer,City_24,Married,Tablet,Free,Credit Card,61936,43,0
+U152,Male,Master,Engineer,City_27,Single,Laptop,Basic,Wallet,108286,42,0
+U153,Male,Bachelor,Sales,City_40,Widowed,Tablet,Free,UPI,52381,57,0
+U154,Female,Bachelor,Consultant,City_36,Widowed,Laptop,Standard,Cash,136465,67,0
+U155,Other,Bachelor,Clerk,City_34,Widowed,Tablet,Free,UPI,43074,30,0
+U156,Male,Master,Clerk,City_29,Widowed,Mobile,Standard,Wallet,59194,13,1
+U157,Female,High School,Manager,City_24,Widowed,Mobile,Free,Net Banking,41853,19,1
+U158,Female,Master,Analyst,City_24,Divorced,Tablet,Free,Wallet,88719,7,1
+U159,Male,Master,Analyst,City_42,Widowed,Mobile,Free,Wallet,133724,9,1
+U160,Female,High School,Doctor,City_4,Divorced,Tablet,Free,Net Banking,28703,54,0
+U161,Male,Master,Technician,City_3,Married,Mobile,Free,Net Banking,132491,61,1
+U162,Female,High School,Sales,City_34,Widowed,Laptop,Free,Net Banking,73453,2,0
+U163,Female,Diploma,Engineer,City_49,Widowed,Tablet,Basic,Net Banking,103478,50,1
+U164,Female,Bachelor,Sales,City_23,Single,Laptop,Free,Net Banking,48161,31,1
+U165,Male,High School,Clerk,City_23,Married,Laptop,Basic,Wallet,129296,33,1
+U166,Female,Master,Clerk,City_45,Widowed,Tablet,Basic,Debit Card,48349,11,0
+U167,Male,Master,Teacher,City_5,Widowed,Laptop,Standard,Debit Card,62098,33,0
+U168,Male,Bachelor,Manager,City_31,Married,Tablet,Premium,Credit Card,123435,7,0
+U169,Male,High School,Analyst,City_41,Divorced,Laptop,Basic,Debit Card,146204,31,0
+U170,Female,Diploma,HR,City_6,Widowed,Tablet,Free,Cash,66990,48,0
+U171,Female,Bachelor,Sales,City_37,Single,Tablet,Free,Debit Card,83921,47,0
+U172,Male,PhD,Clerk,City_10,Widowed,Mobile,Premium,Wallet,115572,53,0
+U173,Female,Bachelor,Technician,City_40,Single,Tablet,Free,Net Banking,22213,19,0
+U174,Male,Diploma,Doctor,City_7,Single,Tablet,Free,Net Banking,139693,6,0
+U175,Female,Bachelor,Engineer,City_39,Widowed,Laptop,Free,Wallet,106655,49,0
+U176,Male,Bachelor,Manager,City_38,Widowed,Tablet,Free,Cash,83371,50,0
+U177,Female,Master,Technician,City_21,Single,Mobile,Free,Debit Card,83274,12,0
+U178,Male,High School,Manager,City_20,Married,Laptop,Standard,Wallet,122853,23,0
+U179,Female,Master,Teacher,City_3,Married,Laptop,Free,Credit Card,19134,54,1
+U180,Male,Bachelor,HR,City_22,Widowed,Mobile,Basic,Net Banking,106428,69,0
+U181,Male,PhD,Clerk,City_47,Divorced,Laptop,Free,UPI,54601,59,0
+U182,Male,Diploma,Doctor,City_4,Married,Laptop,Free,Credit Card,88889,36,0
+U183,Female,Bachelor,Technician,City_28,Widowed,Laptop,Premium,Cash,30690,3,0
+U184,Female,PhD,Manager,City_12,Married,Laptop,Free,Credit Card,16909,58,0
+U185,Male,High School,Analyst,City_38,Divorced,Mobile,Standard,Wallet,106239,55,0
+U186,Female,PhD,Teacher,City_36,Widowed,Mobile,Basic,Debit Card,95032,57,0
+U187,Female,Bachelor,Analyst,City_47,Divorced,Laptop,Free,Net Banking,27062,17,0
+U188,Female,High School,Doctor,City_41,Widowed,Laptop,Premium,Cash,90386,39,0
+U189,Female,Diploma,Technician,City_5,Divorced,Mobile,Free,Cash,114270,68,0
+U190,Male,Bachelor,Teacher,City_13,Married,Mobile,Standard,UPI,81425,55,0
+U191,Male,High School,Technician,City_23,Married,Mobile,Free,Credit Card,99981,45,0
+U192,Female,Bachelor,Clerk,City_50,Divorced,Laptop,Standard,UPI,119470,1,0
+U193,Female,Diploma,Consultant,City_30,Divorced,Laptop,Free,Debit Card,103887,21,0
+U194,Female,Bachelor,Teacher,City_37,Divorced,Tablet,Basic,Debit Card,96542,21,0
+U195,Male,High School,Analyst,City_25,Widowed,Mobile,Standard,UPI,64112,52,1
+U196,Male,Master,Doctor,City_48,Married,Laptop,Premium,Net Banking,74010,43,0
+U197,Female,PhD,HR,City_27,Widowed,Mobile,Premium,Debit Card,39485,52,0
+U198,Female,PhD,Clerk,City_14,Married,Laptop,Standard,UPI,104299,67,1
+U199,Female,Bachelor,Consultant,City_48,Single,Mobile,Standard,Credit Card,120584,44,0
+U200,Female,High School,HR,City_47,Widowed,Laptop,Free,UPI,147139,32,0
+U201,Female,Master,Engineer,City_36,Married,Tablet,Free,UPI,35607,10,1
+U202,Male,High School,Clerk,City_39,Married,Tablet,Free,Wallet,76597,64,1
+U203,Male,High School,Doctor,City_16,Widowed,Mobile,Basic,Debit Card,89554,69,0
+U204,Female,Diploma,Manager,City_22,Widowed,Laptop,Basic,Net Banking,30187,68,1
+U205,Female,Bachelor,Teacher,City_21,Married,Laptop,Basic,Net Banking,18985,28,1
+U206,Male,Master,Technician,City_21,Widowed,Mobile,Free,Wallet,66514,53,0
+U207,Male,Bachelor,Doctor,City_8,Divorced,Laptop,Standard,Cash,33608,51,1
+U208,Female,Diploma,Teacher,City_49,Widowed,Mobile,Free,Net Banking,86327,53,0
+U209,Male,Diploma,HR,City_16,Widowed,Laptop,Free,UPI,32221,4,0
+U210,Male,PhD,Technician,City_31,Widowed,Mobile,Basic,Wallet,63506,17,1
+U211,Female,Diploma,Sales,City_42,Married,Laptop,Standard,Credit Card,35968,67,1
+U212,Female,Bachelor,Analyst,City_10,Divorced,Mobile,Standard,Debit Card,142677,47,0
+U213,Female,High School,Engineer,City_32,Single,Laptop,Basic,Debit Card,117951,56,0
+U214,Male,Master,Clerk,City_34,Single,Tablet,Free,Debit Card,123306,23,0
+U215,Female,Bachelor,Doctor,City_9,Divorced,Laptop,Basic,UPI,58601,18,0
+U216,Male,High School,Engineer,City_17,Divorced,Mobile,Free,Credit Card,87178,1,0
+U217,Male,High School,Manager,City_11,Divorced,Tablet,Basic,Wallet,84893,35,1
+U218,Female,Bachelor,Teacher,City_32,Married,Laptop,Basic,Wallet,101799,64,1
+U219,Female,Bachelor,Teacher,City_10,Single,Tablet,Free,Debit Card,63367,58,0
+U220,Female,Diploma,Doctor,City_22,Divorced,Laptop,Free,Credit Card,28201,59,0
+U221,Female,PhD,Consultant,City_17,Married,Tablet,Premium,Credit Card,148811,1,0
+U222,Female,High School,Consultant,City_4,Single,Mobile,Premium,Credit Card,28231,3,0
+U223,Male,Diploma,Sales,City_48,Widowed,Laptop,Basic,Net Banking,24964,67,0
+U224,Male,PhD,Analyst,City_47,Married,Laptop,Free,Net Banking,27336,37,0
+U225,Male,Diploma,Technician,City_25,Single,Mobile,Free,Debit Card,92475,29,0
+U226,Male,Bachelor,Manager,City_21,Married,Tablet,Basic,Credit Card,97212,33,0
+U227,Other,Diploma,Engineer,City_37,Single,Mobile,Premium,Cash,90379,61,0
+U228,Male,Diploma,Consultant,City_38,Single,Mobile,Free,Credit Card,60591,4,0
+U229,Female,PhD,Sales,City_49,Widowed,Tablet,Standard,Wallet,76750,14,0
+U230,Female,Diploma,Sales,City_1,Married,Mobile,Free,Wallet,105648,33,0
+U231,Female,Master,Doctor,City_25,Divorced,Laptop,Premium,Debit Card,111134,22,0
+U232,Female,High School,Manager,City_36,Widowed,Laptop,Basic,Cash,113537,48,0
+U233,Female,High School,HR,City_17,Widowed,Laptop,Standard,Credit Card,77672,3,0
+U234,Female,High School,Technician,City_41,Single,Mobile,Free,Cash,42228,23,1
+U235,Male,Bachelor,Analyst,City_24,Divorced,Laptop,Basic,Debit Card,29429,68,0
+U236,Female,Diploma,Clerk,City_2,Married,Laptop,Free,Wallet,99294,21,0
+U237,Male,Master,Doctor,City_40,Divorced,Laptop,Free,Wallet,130577,43,0
+U238,Male,Bachelor,Technician,City_15,Divorced,Laptop,Premium,Net Banking,103074,26,0
+U239,Female,PhD,Clerk,City_32,Divorced,Laptop,Premium,Debit Card,83936,41,0
+U240,Male,High School,Clerk,City_39,Divorced,Laptop,Standard,Debit Card,72378,38,1
+U241,Female,Master,Manager,City_6,Divorced,Mobile,Basic,Credit Card,52310,11,1
+U242,Female,Master,Manager,City_1,Single,Laptop,Standard,Credit Card,116827,29,1
+U243,Female,Master,Engineer,City_47,Single,Laptop,Free,Net Banking,114862,60,0
+U244,Male,Master,Sales,City_23,Widowed,Tablet,Free,UPI,53889,67,0
+U245,Male,Master,Technician,City_39,Single,Mobile,Free,Cash,66428,65,0
+U246,Female,Bachelor,Doctor,City_17,Widowed,Mobile,Basic,UPI,125502,61,0
+U247,Male,High School,Teacher,City_34,Widowed,Mobile,Basic,UPI,65255,19,0
+U248,Other,High School,Doctor,City_41,Married,Mobile,Free,Debit Card,120824,46,0
+U249,Other,Master,Engineer,City_29,Divorced,Laptop,Basic,Cash,20409,49,1
+U250,Female,Bachelor,Analyst,City_9,Single,Laptop,Standard,Debit Card,57438,22,0
+U251,Male,Master,Sales,City_13,Married,Tablet,Basic,Cash,22869,57,0
+U252,Male,Bachelor,Teacher,City_6,Single,Tablet,Free,Wallet,40958,14,1
+U253,Female,High School,Consultant,City_6,Widowed,Mobile,Free,Debit Card,90622,44,1
+U254,Male,High School,Analyst,City_20,Single,Tablet,Free,Debit Card,41442,16,0
+U255,Male,Bachelor,Manager,City_3,Divorced,Tablet,Free,Debit Card,96948,12,1
+U256,Female,Diploma,Clerk,City_17,Widowed,Mobile,Basic,Net Banking,40596,55,1
+U257,Female,High School,Consultant,City_49,Widowed,Mobile,Basic,Debit Card,90791,51,0
+U258,Female,Bachelor,Doctor,City_12,Married,Tablet,Standard,Credit Card,57406,39,0
+U259,Female,High School,Doctor,City_48,Divorced,Laptop,Basic,Credit Card,55524,33,0
+U260,Male,Bachelor,Manager,City_47,Widowed,Tablet,Standard,Cash,125160,33,0
+U261,Female,Diploma,Engineer,City_45,Divorced,Tablet,Free,Wallet,20062,29,0
+U262,Other,Master,Technician,City_1,Single,Laptop,Basic,Net Banking,59645,69,1
+U263,Male,Diploma,Consultant,City_17,Divorced,Laptop,Standard,Cash,137759,70,1
+U264,Female,Bachelor,Consultant,City_3,Widowed,Mobile,Free,Credit Card,22244,31,1
+U265,Female,High School,HR,City_26,Married,Mobile,Free,Net Banking,100501,31,1
+U266,Female,High School,Analyst,City_15,Widowed,Tablet,Standard,Net Banking,132450,46,1
+U267,Female,Diploma,Sales,City_36,Divorced,Laptop,Free,Wallet,31956,52,0
+U268,Female,Bachelor,Analyst,City_32,Divorced,Mobile,Standard,Net Banking,31709,10,0
+U269,Male,Bachelor,Technician,City_32,Widowed,Tablet,Free,Debit Card,133428,41,0
+U270,Male,Diploma,Doctor,City_4,Divorced,Laptop,Standard,Net Banking,30210,3,0
+U271,Female,Bachelor,Doctor,City_18,Single,Tablet,Free,Wallet,117081,59,0
+U272,Female,Master,Doctor,City_49,Widowed,Mobile,Free,Cash,115025,52,0
+U273,Female,Master,HR,City_19,Married,Mobile,Basic,Wallet,139476,34,1
+U274,Female,High School,Doctor,City_43,Widowed,Laptop,Free,Wallet,74846,49,0
+U275,Female,Bachelor,Technician,City_35,Single,Tablet,Basic,Credit Card,80480,28,1
+U276,Female,High School,Manager,City_40,Single,Laptop,Free,Debit Card,67960,13,0
+U277,Female,High School,Sales,City_14,Single,Mobile,Free,Credit Card,100765,69,0
+U278,Female,PhD,Technician,City_33,Single,Mobile,Free,Cash,132265,67,0
+U279,Female,High School,Sales,City_14,Single,Tablet,Free,UPI,63137,61,1
+U280,Female,Bachelor,Technician,City_34,Married,Tablet,Premium,Cash,133922,60,0
+U281,Female,Bachelor,Doctor,City_4,Divorced,Tablet,Free,Debit Card,136280,71,0
+U282,Male,Bachelor,Manager,City_24,Single,Laptop,Basic,Net Banking,58876,24,0
+U283,Male,Bachelor,Consultant,City_29,Single,Tablet,Free,Wallet,109547,63,0
+U284,Male,High School,Analyst,City_19,Widowed,Tablet,Free,UPI,65227,61,0
+U285,Female,Diploma,Clerk,City_6,Married,Mobile,Premium,Debit Card,99433,23,0
+U286,Male,Bachelor,Manager,City_33,Married,Mobile,Free,Credit Card,88704,30,0
+U287,Male,High School,Consultant,City_49,Divorced,Tablet,Premium,Wallet,21861,60,0
+U288,Female,Diploma,Engineer,City_40,Married,Tablet,Free,Cash,76914,18,0
+U289,Male,High School,Technician,City_19,Widowed,Mobile,Standard,Credit Card,78888,56,0
+U290,Female,High School,Engineer,City_1,Widowed,Tablet,Basic,Debit Card,94286,53,0
+U291,Male,Diploma,Consultant,City_5,Divorced,Laptop,Standard,Debit Card,76293,7,0
+U292,Male,High School,Manager,City_27,Widowed,Laptop,Basic,Cash,83515,69,0
+U293,Female,Bachelor,Technician,City_16,Single,Laptop,Basic,UPI,22065,52,0
+U294,Male,Bachelor,Clerk,City_6,Single,Tablet,Free,Cash,103720,4,0
+U295,Male,Master,Doctor,City_40,Widowed,Mobile,Free,Net Banking,73876,34,0
+U296,Female,High School,Technician,City_13,Divorced,Tablet,Premium,Credit Card,98797,69,0
+U297,Female,High School,Technician,City_48,Married,Tablet,Free,UPI,106141,33,1
+U298,Male,High School,Manager,City_35,Divorced,Mobile,Basic,Wallet,117390,69,0
+U299,Female,Bachelor,Manager,City_19,Married,Mobile,Standard,Net Banking,111856,38,0
+U300,Male,Bachelor,Consultant,City_12,Widowed,Mobile,Free,UPI,81201,26,0
+U301,Male,High School,Teacher,City_16,Widowed,Laptop,Premium,Credit Card,104766,1,1
+U302,Female,PhD,Technician,City_43,Single,Tablet,Standard,Debit Card,37995,4,0
+U303,Female,High School,Analyst,City_10,Married,Mobile,Basic,Wallet,107320,39,0
+U304,Female,Bachelor,Technician,City_25,Divorced,Tablet,Standard,Cash,95141,54,1
+U305,Female,Bachelor,Consultant,City_20,Widowed,Laptop,Free,Credit Card,85799,33,1
+U306,Other,Master,Sales,City_31,Divorced,Laptop,Free,Net Banking,60687,33,0
+U307,Female,Bachelor,Engineer,City_4,Single,Mobile,Basic,Net Banking,52276,20,0
+U308,Male,Master,Doctor,City_44,Married,Mobile,Free,Debit Card,49523,16,1
+U309,Female,Diploma,Teacher,City_23,Married,Tablet,Standard,Debit Card,69615,21,0
+U310,Male,Master,Clerk,City_2,Widowed,Mobile,Premium,Wallet,25514,45,0
+U311,Male,High School,Clerk,City_22,Married,Tablet,Basic,Cash,62456,62,0
+U312,Male,Master,Clerk,City_37,Widowed,Mobile,Free,Wallet,22233,31,1
+U313,Male,Bachelor,Manager,City_8,Single,Tablet,Premium,Debit Card,16102,42,0
+U314,Other,Master,Clerk,City_7,Married,Tablet,Basic,Debit Card,81133,12,0
+U315,Female,Bachelor,Doctor,City_14,Widowed,Tablet,Basic,Net Banking,61715,65,1
+U316,Female,Bachelor,Engineer,City_3,Divorced,Tablet,Basic,Debit Card,125545,3,0
+U317,Male,Bachelor,Clerk,City_50,Widowed,Laptop,Premium,UPI,119085,9,0
+U318,Male,Bachelor,Technician,City_16,Married,Tablet,Basic,Credit Card,124101,51,0
+U319,Male,High School,Technician,City_19,Single,Mobile,Standard,Debit Card,123684,16,1
+U320,Male,High School,Manager,City_18,Married,Laptop,Standard,Wallet,79800,3,0
+U321,Female,High School,Doctor,City_16,Married,Laptop,Free,Cash,109937,24,0
+U322,Female,High School,Engineer,City_8,Widowed,Tablet,Basic,Cash,56548,13,0
+U323,Female,Master,Teacher,City_33,Divorced,Laptop,Standard,Cash,143845,2,0
+U324,Male,High School,Consultant,City_49,Married,Tablet,Basic,UPI,128815,71,1
+U325,Female,PhD,Engineer,City_12,Divorced,Mobile,Standard,Wallet,142602,21,0
+U326,Female,Diploma,Consultant,City_11,Widowed,Tablet,Premium,UPI,141270,19,0
+U327,Female,High School,Sales,City_5,Divorced,Laptop,Basic,Debit Card,141320,47,0
+U328,Female,Master,Consultant,City_27,Widowed,Mobile,Standard,Credit Card,40570,22,1
+U329,Male,Bachelor,Analyst,City_12,Single,Tablet,Standard,Cash,36182,33,0
+U330,Male,Bachelor,Technician,City_17,Divorced,Mobile,Standard,Wallet,54373,32,0
+U331,Male,Bachelor,Doctor,City_6,Divorced,Mobile,Basic,Cash,58019,64,0
+U332,Female,Bachelor,HR,City_33,Single,Laptop,Free,UPI,31043,39,0
+U333,Male,High School,Manager,City_5,Divorced,Mobile,Basic,Net Banking,34239,42,0
+U334,Male,PhD,Analyst,City_28,Single,Laptop,Standard,Debit Card,149484,9,0
+U335,Male,PhD,Consultant,City_14,Married,Mobile,Basic,Credit Card,96976,25,0
+U336,Male,Bachelor,Clerk,City_5,Widowed,Tablet,Standard,Debit Card,39406,2,0
+U337,Female,High School,Doctor,City_33,Single,Mobile,Basic,Net Banking,16875,19,1
+U338,Female,Bachelor,Analyst,City_50,Divorced,Tablet,Basic,Credit Card,147425,20,0
+U339,Male,High School,Manager,City_48,Single,Tablet,Free,Net Banking,29691,70,1
+U340,Male,High School,Technician,City_41,Divorced,Mobile,Standard,Debit Card,63075,17,0
+U341,Female,Diploma,Doctor,City_19,Married,Tablet,Basic,UPI,25794,68,1
+U342,Male,Bachelor,Manager,City_22,Single,Mobile,Free,Debit Card,90930,3,1
+U343,Male,Master,Sales,City_5,Married,Mobile,Free,Debit Card,56708,51,1
+U344,Male,Bachelor,Sales,City_2,Widowed,Tablet,Standard,Debit Card,130492,26,1
+U345,Male,Bachelor,Manager,City_30,Divorced,Tablet,Basic,Wallet,121629,56,0
+U346,Female,Diploma,Analyst,City_47,Divorced,Laptop,Free,Net Banking,138313,64,0
+U347,Female,Diploma,Doctor,City_39,Married,Tablet,Premium,Net Banking,36352,8,0
+U348,Male,Diploma,Analyst,City_4,Widowed,Laptop,Standard,Cash,116975,37,0
+U349,Male,PhD,Teacher,City_33,Single,Tablet,Premium,Net Banking,108848,27,0
+U350,Female,High School,Consultant,City_13,Single,Mobile,Basic,Cash,59999,45,1
+U351,Female,Master,Teacher,City_20,Divorced,Tablet,Basic,Wallet,33482,4,0
+U352,Female,Bachelor,Sales,City_7,Married,Mobile,Standard,UPI,62279,37,0
+U353,Female,Diploma,Technician,City_15,Married,Mobile,Basic,Cash,124413,71,1
+U354,Male,Bachelor,Engineer,City_23,Single,Mobile,Standard,Debit Card,69213,33,0
+U355,Male,Bachelor,Consultant,City_14,Widowed,Laptop,Free,UPI,128909,31,0
+U356,Female,Master,Sales,City_23,Widowed,Tablet,Basic,Wallet,28026,55,1
+U357,Male,Master,Analyst,City_19,Single,Mobile,Free,Net Banking,100184,12,0
+U358,Female,Diploma,Analyst,City_29,Single,Mobile,Free,Cash,20435,11,0
+U359,Female,Diploma,Analyst,City_20,Married,Laptop,Free,Debit Card,74321,32,1
+U360,Female,Bachelor,Technician,City_29,Widowed,Tablet,Free,Credit Card,148835,57,1
+U361,Male,Master,Teacher,City_24,Single,Tablet,Premium,Credit Card,35389,38,1
+U362,Female,High School,Engineer,City_18,Single,Laptop,Free,UPI,46498,60,0
+U363,Male,Bachelor,Analyst,City_10,Divorced,Laptop,Standard,Net Banking,78755,19,1
+U364,Female,Bachelor,HR,City_41,Single,Tablet,Standard,Credit Card,116545,56,0
+U365,Female,Bachelor,Consultant,City_8,Single,Laptop,Basic,UPI,50825,14,0
+U366,Male,High School,Doctor,City_26,Widowed,Tablet,Free,Wallet,31934,33,0
+U367,Other,Bachelor,HR,City_29,Married,Tablet,Standard,UPI,20574,10,0
+U368,Female,Master,Engineer,City_10,Widowed,Mobile,Basic,UPI,145698,64,0
+U369,Male,High School,Technician,City_17,Married,Mobile,Standard,UPI,147659,64,0
+U370,Male,High School,Engineer,City_2,Divorced,Tablet,Standard,Debit Card,57782,62,0
+U371,Male,PhD,Doctor,City_6,Single,Tablet,Premium,UPI,75561,68,0
+U372,Male,High School,Consultant,City_5,Divorced,Tablet,Basic,Cash,142159,43,1
+U373,Male,Master,Doctor,City_28,Married,Tablet,Free,UPI,41751,59,0
+U374,Female,Bachelor,Manager,City_41,Widowed,Tablet,Basic,Debit Card,53174,52,0
+U375,Male,High School,Consultant,City_5,Widowed,Tablet,Free,Debit Card,137678,19,0
+U376,Male,Master,Engineer,City_18,Divorced,Laptop,Standard,Wallet,71572,21,0
+U377,Female,Diploma,Analyst,City_26,Married,Tablet,Free,Net Banking,76416,22,0
+U378,Male,Bachelor,Engineer,City_20,Divorced,Laptop,Free,Credit Card,50201,9,0
+U379,Female,Diploma,Engineer,City_41,Divorced,Laptop,Standard,Credit Card,51069,9,0
+U380,Male,Bachelor,Consultant,City_49,Single,Tablet,Basic,UPI,41370,27,1
+U381,Male,High School,Manager,City_27,Divorced,Tablet,Basic,Wallet,140342,17,0
+U382,Female,Diploma,Engineer,City_49,Single,Laptop,Basic,UPI,140758,44,0
+U383,Female,PhD,HR,City_12,Single,Laptop,Standard,Credit Card,80294,45,0
+U384,Female,Diploma,Sales,City_7,Widowed,Tablet,Free,Debit Card,94468,8,0
+U385,Female,Bachelor,Clerk,City_3,Single,Tablet,Standard,Net Banking,105715,18,0
+U386,Female,Diploma,Clerk,City_10,Single,Laptop,Free,Wallet,85793,33,0
+U387,Male,Master,Engineer,City_34,Widowed,Laptop,Standard,Debit Card,126672,1,0
+U388,Male,High School,HR,City_25,Divorced,Laptop,Standard,Net Banking,135902,6,1
+U389,Female,PhD,Analyst,City_35,Married,Mobile,Free,Wallet,36390,41,0
+U390,Female,Bachelor,Technician,City_16,Married,Laptop,Basic,Wallet,35369,55,0
+U391,Other,High School,Technician,City_2,Married,Mobile,Free,Credit Card,24587,5,1
+U392,Male,High School,Consultant,City_24,Divorced,Tablet,Standard,Debit Card,122009,59,0
+U393,Male,High School,Clerk,City_10,Single,Tablet,Basic,Wallet,62013,18,1
+U394,Female,Bachelor,Engineer,City_38,Married,Laptop,Basic,Cash,132341,49,0
+U395,Male,Diploma,Technician,City_22,Divorced,Tablet,Free,Wallet,142785,65,0
+U396,Female,Master,Engineer,City_26,Single,Tablet,Free,Net Banking,122584,54,1
+U397,Female,Diploma,Consultant,City_43,Widowed,Tablet,Free,Credit Card,93113,61,1
+U398,Male,High School,Clerk,City_39,Married,Tablet,Free,UPI,101784,8,1
+U399,Female,Bachelor,Doctor,City_27,Single,Mobile,Basic,Credit Card,50282,3,0
+U400,Female,Bachelor,Sales,City_29,Married,Mobile,Standard,UPI,39124,25,1
+U401,Male,High School,Sales,City_47,Married,Laptop,Standard,Debit Card,85102,69,1
+U402,Female,High School,Technician,City_38,Married,Laptop,Basic,Debit Card,148268,55,0
+U403,Female,High School,Sales,City_20,Single,Laptop,Premium,Wallet,76527,40,0
+U404,Female,Bachelor,Doctor,City_27,Divorced,Tablet,Standard,Cash,145371,50,0
+U405,Male,Bachelor,Engineer,City_41,Single,Tablet,Premium,Debit Card,145942,33,1
+U406,Female,Bachelor,Consultant,City_20,Married,Mobile,Basic,Wallet,111651,18,0
+U407,Male,Master,Doctor,City_44,Single,Mobile,Free,Credit Card,100395,57,0
+U408,Male,Master,Consultant,City_19,Widowed,Laptop,Free,Debit Card,26345,16,0
+U409,Female,Bachelor,Consultant,City_20,Divorced,Mobile,Standard,Credit Card,139544,38,0
+U410,Male,Master,Clerk,City_35,Single,Mobile,Free,Credit Card,49077,41,0
+U411,Male,High School,Engineer,City_47,Widowed,Mobile,Free,Cash,145429,7,0
+U412,Female,High School,HR,City_2,Divorced,Mobile,Basic,Debit Card,27055,53,1
+U413,Female,Diploma,Sales,City_30,Widowed,Mobile,Basic,Credit Card,118693,63,0
+U414,Female,High School,HR,City_34,Divorced,Laptop,Basic,Cash,100283,32,1
+U415,Female,Bachelor,Clerk,City_22,Single,Laptop,Free,Cash,59484,38,0
+U416,Male,PhD,Consultant,City_3,Widowed,Mobile,Basic,Debit Card,92514,22,0
+U417,Male,High School,Technician,City_6,Married,Laptop,Basic,Cash,105135,16,0
+U418,Male,High School,Sales,City_15,Widowed,Tablet,Premium,Debit Card,50771,52,0
+U419,Female,Bachelor,Sales,City_27,Divorced,Mobile,Standard,Debit Card,125284,29,0
+U420,Female,PhD,Engineer,City_10,Single,Tablet,Premium,UPI,132399,16,1
+U421,Female,Diploma,Manager,City_9,Divorced,Laptop,Standard,Credit Card,119885,17,0
+U422,Female,Bachelor,Teacher,City_33,Widowed,Laptop,Basic,Net Banking,144344,64,0
+U423,Male,High School,Teacher,City_32,Widowed,Tablet,Free,Debit Card,128226,13,0
+U424,Female,High School,Teacher,City_48,Married,Laptop,Standard,Credit Card,114250,56,0
+U425,Male,PhD,Manager,City_6,Single,Mobile,Basic,Cash,40762,5,1
+U426,Female,PhD,Engineer,City_41,Single,Tablet,Basic,Wallet,63825,12,0
+U427,Male,High School,Manager,City_36,Widowed,Mobile,Basic,Debit Card,28877,41,0
+U428,Female,PhD,Teacher,City_2,Single,Tablet,Basic,Cash,144065,3,0
+U429,Male,Bachelor,Clerk,City_29,Married,Laptop,Free,Cash,123443,33,0
+U430,Male,Master,Doctor,City_4,Divorced,Tablet,Basic,Cash,114612,50,0
+U431,Male,Bachelor,Consultant,City_1,Single,Tablet,Free,Cash,132674,56,0
+U432,Female,Bachelor,Manager,City_19,Widowed,Mobile,Standard,Cash,130074,9,0
+U433,Female,Bachelor,Engineer,City_26,Divorced,Laptop,Free,Debit Card,149330,50,0
+U434,Male,Bachelor,Engineer,City_25,Divorced,Mobile,Free,Net Banking,46629,29,0
+U435,Male,High School,HR,City_10,Married,Laptop,Basic,UPI,30775,39,1
+U436,Female,High School,Doctor,City_15,Widowed,Mobile,Standard,Cash,15055,45,0
+U437,Male,Diploma,Technician,City_22,Single,Tablet,Basic,Cash,103697,17,1
+U438,Female,Bachelor,Sales,City_48,Widowed,Mobile,Free,UPI,116505,56,1
+U439,Female,High School,Teacher,City_21,Divorced,Laptop,Basic,Debit Card,95720,46,0
+U440,Male,Bachelor,Technician,City_22,Widowed,Laptop,Free,Credit Card,93199,67,0
+U441,Male,PhD,HR,City_36,Single,Tablet,Premium,Wallet,48734,69,0
+U442,Other,High School,Teacher,City_34,Single,Laptop,Premium,Wallet,31493,14,0
+U443,Male,Bachelor,Doctor,City_30,Married,Mobile,Basic,Credit Card,149704,67,0
+U444,Male,Diploma,HR,City_25,Single,Tablet,Free,Debit Card,110872,23,0
+U445,Female,Master,Teacher,City_45,Single,Laptop,Standard,Wallet,76779,61,0
+U446,Female,High School,Doctor,City_28,Widowed,Laptop,Free,UPI,136187,23,1
+U447,Other,Bachelor,Analyst,City_1,Widowed,Mobile,Basic,Credit Card,131603,27,0
+U448,Female,Master,Technician,City_49,Divorced,Mobile,Free,Net Banking,76607,54,0
+U449,Male,PhD,Technician,City_45,Married,Tablet,Premium,Debit Card,31940,10,0
+U450,Male,Bachelor,Sales,City_4,Widowed,Laptop,Free,Credit Card,142880,16,0
+U451,Female,Bachelor,Doctor,City_7,Single,Mobile,Basic,Wallet,113408,41,0
+U452,Female,Bachelor,Manager,City_49,Divorced,Tablet,Standard,Debit Card,49815,55,1
+U453,Male,Master,Analyst,City_9,Widowed,Laptop,Basic,UPI,64297,61,1
+U454,Female,Bachelor,Clerk,City_36,Married,Laptop,Free,Debit Card,75107,49,1
+U455,Male,High School,Teacher,City_19,Married,Tablet,Premium,Debit Card,97793,52,0
+U456,Female,PhD,Analyst,City_1,Divorced,Tablet,Basic,UPI,34622,2,0
+U457,Male,Bachelor,Doctor,City_10,Divorced,Mobile,Basic,Cash,45408,50,0
+U458,Male,Bachelor,Consultant,City_36,Divorced,Laptop,Free,UPI,108190,43,0
+U459,Male,High School,Teacher,City_9,Divorced,Laptop,Basic,Debit Card,15370,8,0
+U460,Male,Bachelor,Engineer,City_45,Divorced,Laptop,Basic,UPI,129212,59,0
+U461,Male,Diploma,Technician,City_46,Single,Tablet,Free,Cash,15486,65,0
+U462,Female,Bachelor,Doctor,City_42,Single,Mobile,Free,Credit Card,38762,12,0
+U463,Female,High School,Engineer,City_32,Widowed,Laptop,Standard,UPI,41613,4,0
+U464,Female,Bachelor,Sales,City_32,Married,Tablet,Free,UPI,18196,41,1
+U465,Other,PhD,HR,City_6,Single,Laptop,Free,Debit Card,115565,7,0
+U466,Male,High School,Clerk,City_48,Single,Mobile,Basic,Credit Card,91349,69,1
+U467,Male,PhD,Clerk,City_38,Single,Laptop,Standard,Net Banking,79839,69,1
+U468,Female,Diploma,Engineer,City_17,Widowed,Mobile,Free,Net Banking,23572,30,0
+U469,Male,Master,Technician,City_10,Divorced,Mobile,Basic,Wallet,60853,6,0
+U470,Other,Master,Sales,City_50,Widowed,Laptop,Free,UPI,87379,19,0
+U471,Male,Bachelor,Consultant,City_27,Married,Laptop,Free,UPI,147177,66,1
+U472,Other,Bachelor,Technician,City_50,Married,Mobile,Free,Credit Card,131074,10,0
+U473,Male,Master,Analyst,City_35,Married,Tablet,Standard,Cash,58209,16,1
+U474,Female,Diploma,Clerk,City_21,Married,Mobile,Free,Net Banking,109244,37,0
+U475,Female,Diploma,Analyst,City_25,Single,Laptop,Free,Wallet,115300,32,1
+U476,Other,Bachelor,Teacher,City_28,Single,Laptop,Basic,Credit Card,129682,47,1
+U477,Male,Master,Manager,City_47,Widowed,Tablet,Standard,UPI,72175,43,0
+U478,Female,Master,Doctor,City_15,Divorced,Mobile,Free,Net Banking,116551,36,0
+U479,Other,Master,Sales,City_4,Married,Mobile,Basic,Wallet,33976,26,0
+U480,Female,Diploma,Technician,City_29,Widowed,Mobile,Free,Debit Card,145617,10,0
+U481,Female,Master,Clerk,City_9,Single,Laptop,Basic,Net Banking,114794,31,0
+U482,Female,High School,Analyst,City_27,Single,Mobile,Basic,Wallet,71866,29,1
+U483,Male,Bachelor,HR,City_26,Divorced,Tablet,Basic,Credit Card,132752,5,0
+U484,Female,High School,Teacher,City_19,Divorced,Laptop,Free,Debit Card,62078,1,1
+U485,Female,Diploma,Doctor,City_28,Divorced,Laptop,Free,Wallet,46113,3,1
+U486,Female,Diploma,Doctor,City_17,Widowed,Mobile,Free,Wallet,30401,67,0
+U487,Male,Diploma,Technician,City_43,Single,Tablet,Basic,UPI,86492,71,1
+U488,Male,Bachelor,Sales,City_41,Single,Laptop,Free,Cash,91693,35,0
+U489,Female,Diploma,Consultant,City_42,Divorced,Laptop,Standard,Net Banking,50135,15,1
+U490,Female,Diploma,HR,City_50,Married,Mobile,Premium,UPI,42862,67,0
+U491,Male,High School,Technician,City_20,Divorced,Mobile,Premium,Debit Card,85199,30,0
+U492,Female,Diploma,Analyst,City_45,Widowed,Tablet,Standard,Cash,120366,43,0
+U493,Male,High School,Manager,City_40,Divorced,Mobile,Basic,Wallet,19331,60,0
+U494,Male,High School,Engineer,City_39,Divorced,Tablet,Standard,UPI,59648,40,0
+U495,Male,Bachelor,Consultant,City_49,Widowed,Laptop,Free,Cash,43549,65,0
+U496,Male,Bachelor,Sales,City_23,Divorced,Tablet,Basic,Net Banking,40761,29,0
+U497,Female,Bachelor,Teacher,City_47,Single,Tablet,Basic,Debit Card,18262,19,1
+U498,Male,Bachelor,Consultant,City_32,Married,Tablet,Basic,Credit Card,87572,3,0
+U499,Other,Diploma,Clerk,City_47,Divorced,Laptop,Standard,UPI,102858,36,0
+U500,Other,Master,Sales,City_33,Widowed,Mobile,Free,Debit Card,99667,43,0
+U501,Female,Bachelor,Manager,City_46,Married,Laptop,Free,Credit Card,19677,15,1
+U502,Female,Bachelor,Clerk,City_5,Widowed,Mobile,Premium,UPI,145334,41,1
+U503,Male,High School,Consultant,City_43,Married,Tablet,Free,Debit Card,116437,36,0
+U504,Female,Diploma,Engineer,City_48,Married,Tablet,Basic,Debit Card,75148,33,0
+U505,Female,Diploma,Engineer,City_34,Divorced,Tablet,Premium,Cash,61926,5,0
+U506,Male,Diploma,Manager,City_40,Single,Tablet,Basic,UPI,90271,14,0
+U507,Female,Bachelor,Doctor,City_11,Divorced,Tablet,Basic,Debit Card,49457,68,1
+U508,Female,Bachelor,HR,City_50,Widowed,Mobile,Free,Wallet,57531,47,0
+U509,Female,Bachelor,Teacher,City_3,Widowed,Mobile,Free,UPI,143027,54,1
+U510,Female,Master,Doctor,City_33,Married,Tablet,Standard,Debit Card,60771,4,0
+U511,Female,Master,Engineer,City_11,Married,Laptop,Basic,Cash,108135,9,1
+U512,Male,Bachelor,Engineer,City_16,Single,Laptop,Basic,Credit Card,81354,53,0
+U513,Female,PhD,Analyst,City_18,Divorced,Tablet,Free,Credit Card,127743,60,1
+U514,Female,High School,Clerk,City_30,Widowed,Mobile,Free,Wallet,48892,46,1
+U515,Male,High School,Consultant,City_48,Married,Laptop,Premium,UPI,144662,54,1
+U516,Male,High School,Teacher,City_10,Single,Laptop,Basic,Cash,110057,37,0
+U517,Male,Bachelor,Manager,City_18,Widowed,Laptop,Basic,Debit Card,53409,23,0
+U518,Female,Master,Consultant,City_38,Married,Tablet,Free,Debit Card,133566,27,0
+U519,Other,High School,Analyst,City_19,Widowed,Laptop,Standard,Credit Card,76716,70,0
+U520,Male,Master,Engineer,City_36,Single,Laptop,Premium,Cash,104152,66,0
+U521,Female,High School,Manager,City_13,Single,Laptop,Basic,Wallet,41382,61,0
+U522,Male,PhD,Engineer,City_46,Widowed,Laptop,Free,Credit Card,91675,51,0
+U523,Other,Diploma,Teacher,City_3,Divorced,Mobile,Basic,Credit Card,37419,50,0
+U524,Female,High School,Clerk,City_10,Widowed,Tablet,Standard,Wallet,96238,19,0
+U525,Female,Bachelor,Consultant,City_38,Married,Tablet,Basic,UPI,27397,1,0
+U526,Male,Diploma,Consultant,City_1,Divorced,Mobile,Standard,Debit Card,72888,40,0
+U527,Male,Diploma,Doctor,City_27,Married,Mobile,Basic,UPI,50169,32,0
+U528,Male,Diploma,Manager,City_46,Widowed,Tablet,Standard,Cash,77182,22,0
+U529,Male,Master,HR,City_8,Divorced,Laptop,Basic,Net Banking,107476,66,0
+U530,Female,Bachelor,Analyst,City_46,Married,Laptop,Free,Net Banking,57249,40,1
+U531,Female,Diploma,HR,City_42,Widowed,Tablet,Free,Net Banking,90603,38,1
+U532,Other,Bachelor,Doctor,City_17,Widowed,Laptop,Free,Wallet,94360,48,1
+U533,Other,Bachelor,Teacher,City_9,Divorced,Mobile,Premium,Credit Card,28444,55,1
+U534,Female,Diploma,Analyst,City_6,Widowed,Laptop,Standard,UPI,138662,55,0
+U535,Female,Diploma,Clerk,City_43,Single,Laptop,Standard,Debit Card,113843,51,0
+U536,Female,High School,HR,City_25,Married,Laptop,Free,Net Banking,25974,60,0
+U537,Female,High School,Clerk,City_39,Married,Tablet,Free,UPI,127150,8,0
+U538,Male,Bachelor,HR,City_49,Widowed,Mobile,Standard,Net Banking,109826,68,0
+U539,Male,High School,Clerk,City_28,Widowed,Laptop,Basic,Net Banking,112648,9,0
+U540,Male,Bachelor,HR,City_33,Single,Tablet,Free,Debit Card,149028,2,0
+U541,Female,Bachelor,Clerk,City_37,Divorced,Laptop,Basic,Cash,51490,70,0
+U542,Female,High School,Doctor,City_9,Widowed,Mobile,Free,Cash,139713,59,1
+U543,Male,Bachelor,Sales,City_18,Widowed,Laptop,Free,Cash,70612,19,0
+U544,Female,Diploma,Analyst,City_21,Widowed,Mobile,Basic,Wallet,115474,28,0
+U545,Female,PhD,Manager,City_2,Widowed,Laptop,Free,Credit Card,51159,14,0
+U546,Male,Bachelor,Teacher,City_43,Married,Mobile,Premium,Wallet,54710,24,0
+U547,Male,Master,Technician,City_38,Widowed,Laptop,Free,UPI,128096,44,0
+U548,Female,Bachelor,Engineer,City_40,Married,Mobile,Free,Wallet,122412,56,1
+U549,Female,High School,Manager,City_36,Widowed,Laptop,Free,UPI,109924,51,0
+U550,Female,Bachelor,Engineer,City_50,Divorced,Laptop,Standard,UPI,21458,32,0
+U551,Female,PhD,Analyst,City_43,Single,Tablet,Basic,Credit Card,145993,50,0
+U552,Female,Bachelor,Manager,City_37,Divorced,Tablet,Basic,Debit Card,50524,41,0
+U553,Female,Master,Clerk,City_15,Widowed,Mobile,Free,Credit Card,55477,66,1
+U554,Female,Master,Clerk,City_28,Widowed,Laptop,Free,Cash,47222,25,0
+U555,Female,High School,Technician,City_18,Widowed,Mobile,Basic,Cash,33320,61,0
+U556,Male,High School,Engineer,City_34,Divorced,Tablet,Standard,Wallet,109154,66,1
+U557,Male,Bachelor,Teacher,City_22,Widowed,Mobile,Standard,UPI,67243,42,1
+U558,Male,Diploma,Analyst,City_11,Divorced,Mobile,Free,Net Banking,87833,65,0
+U559,Female,Master,Clerk,City_13,Married,Tablet,Basic,Net Banking,108476,36,0
+U560,Female,Master,Sales,City_4,Single,Laptop,Premium,UPI,129560,9,0
+U561,Female,Diploma,Doctor,City_22,Single,Mobile,Basic,Credit Card,149275,36,0
+U562,Male,High School,Doctor,City_7,Divorced,Tablet,Standard,Debit Card,54267,38,0
+U563,Male,Master,HR,City_43,Married,Laptop,Free,Credit Card,52941,33,1
+U564,Male,Diploma,Teacher,City_24,Divorced,Tablet,Premium,UPI,97809,42,0
+U565,Male,Master,Doctor,City_4,Married,Mobile,Standard,UPI,40368,61,1
+U566,Female,Diploma,HR,City_28,Widowed,Laptop,Premium,Debit Card,92186,46,0
+U567,Male,Bachelor,Engineer,City_15,Married,Laptop,Standard,Wallet,45984,61,0
+U568,Male,High School,Clerk,City_1,Married,Tablet,Basic,Wallet,15801,18,0
+U569,Female,Bachelor,Clerk,City_3,Married,Tablet,Premium,Debit Card,121538,70,1
+U570,Male,Bachelor,Sales,City_14,Single,Tablet,Free,Wallet,127201,15,1
+U571,Female,Bachelor,Manager,City_38,Married,Laptop,Free,Net Banking,62965,48,0
+U572,Female,High School,Doctor,City_50,Widowed,Laptop,Standard,Wallet,100269,13,0
+U573,Male,Bachelor,Engineer,City_1,Widowed,Mobile,Standard,Wallet,50969,43,0
+U574,Female,Master,Consultant,City_38,Widowed,Laptop,Premium,Wallet,106679,60,1
+U575,Female,High School,Doctor,City_38,Married,Mobile,Free,Net Banking,43363,57,1
+U576,Female,High School,Teacher,City_21,Divorced,Tablet,Standard,Wallet,48351,71,0
+U577,Male,High School,Manager,City_48,Divorced,Tablet,Standard,Cash,126023,17,0
+U578,Female,Bachelor,Doctor,City_29,Widowed,Laptop,Free,Net Banking,102948,50,0
+U579,Female,Bachelor,Engineer,City_5,Single,Tablet,Basic,Debit Card,71235,32,0
+U580,Male,Bachelor,Doctor,City_49,Divorced,Tablet,Free,Credit Card,29855,22,0
+U581,Male,High School,Teacher,City_10,Married,Laptop,Free,Debit Card,140074,55,0
+U582,Other,Diploma,Consultant,City_28,Divorced,Mobile,Premium,Credit Card,69437,57,1
+U583,Female,Bachelor,Analyst,City_21,Widowed,Laptop,Basic,Debit Card,105410,13,0
+U584,Male,Bachelor,Technician,City_50,Single,Mobile,Standard,Cash,34731,47,1
+U585,Female,PhD,Consultant,City_7,Divorced,Laptop,Premium,Credit Card,81324,62,0
+U586,Male,High School,HR,City_3,Divorced,Laptop,Basic,Credit Card,96720,54,0
+U587,Male,Bachelor,Doctor,City_45,Widowed,Tablet,Standard,UPI,111433,29,0
+U588,Male,Diploma,Clerk,City_47,Single,Laptop,Basic,Credit Card,17889,22,0
+U589,Male,Diploma,Sales,City_20,Single,Laptop,Standard,Credit Card,24569,65,0
+U590,Male,Bachelor,Clerk,City_19,Widowed,Mobile,Free,UPI,102193,29,0
+U591,Male,Bachelor,Consultant,City_35,Married,Tablet,Premium,Wallet,100192,48,0
+U592,Female,PhD,Clerk,City_4,Divorced,Mobile,Free,Wallet,102154,5,0
+U593,Male,High School,Engineer,City_5,Married,Mobile,Free,UPI,123073,35,0
+U594,Male,High School,Clerk,City_1,Divorced,Tablet,Standard,Net Banking,22612,71,0
+U595,Female,Bachelor,Manager,City_4,Divorced,Tablet,Basic,Credit Card,66644,46,0
+U596,Male,Bachelor,Analyst,City_12,Married,Tablet,Basic,Credit Card,47069,35,0
+U597,Female,Diploma,Doctor,City_27,Widowed,Laptop,Basic,UPI,96741,45,1
+U598,Male,High School,Clerk,City_42,Widowed,Tablet,Standard,UPI,70897,13,0
+U599,Male,High School,Teacher,City_23,Divorced,Tablet,Free,Net Banking,117544,10,1
+U600,Male,Master,Analyst,City_25,Widowed,Tablet,Free,Cash,33706,66,0
+U601,Male,High School,Analyst,City_21,Divorced,Mobile,Free,Wallet,118602,70,0
+U602,Male,Diploma,Clerk,City_24,Widowed,Mobile,Basic,Debit Card,49629,25,0
+U603,Male,High School,Analyst,City_25,Divorced,Laptop,Free,Cash,139746,44,1
+U604,Male,Diploma,Sales,City_45,Widowed,Mobile,Basic,Wallet,35431,60,1
+U605,Male,High School,Clerk,City_46,Single,Laptop,Basic,Credit Card,55088,47,0
+U606,Male,Bachelor,Engineer,City_32,Married,Mobile,Free,Cash,46385,40,0
+U607,Male,High School,Consultant,City_32,Single,Tablet,Basic,UPI,85199,7,0
+U608,Male,Master,Manager,City_5,Married,Mobile,Standard,Net Banking,53677,46,0
+U609,Female,High School,Technician,City_36,Married,Laptop,Free,Wallet,133104,23,0
+U610,Female,Bachelor,HR,City_46,Divorced,Mobile,Basic,Net Banking,27818,46,0
+U611,Male,Master,Analyst,City_42,Married,Tablet,Standard,Wallet,78001,13,0
+U612,Female,Bachelor,Engineer,City_49,Single,Laptop,Basic,Cash,64832,21,1
+U613,Female,Bachelor,Doctor,City_42,Single,Tablet,Standard,Credit Card,55931,1,0
+U614,Male,Diploma,Doctor,City_39,Widowed,Tablet,Basic,Debit Card,98990,19,0
+U615,Female,Diploma,HR,City_16,Single,Laptop,Basic,Net Banking,87204,60,0
+U616,Female,Bachelor,Manager,City_33,Widowed,Tablet,Free,Net Banking,60784,33,0
+U617,Male,PhD,Analyst,City_49,Married,Tablet,Standard,Debit Card,121305,4,0
+U618,Male,Bachelor,Sales,City_21,Single,Mobile,Standard,Net Banking,24921,3,0
+U619,Female,Bachelor,HR,City_9,Married,Tablet,Free,Net Banking,49959,52,0
+U620,Female,Bachelor,Manager,City_6,Single,Tablet,Basic,Wallet,47328,28,1
+U621,Male,Bachelor,Analyst,City_45,Single,Tablet,Premium,Wallet,104506,70,1
+U622,Male,High School,Engineer,City_35,Widowed,Tablet,Basic,Debit Card,89408,70,0
+U623,Male,Bachelor,Consultant,City_39,Married,Laptop,Basic,Credit Card,138852,55,0
+U624,Female,PhD,Sales,City_22,Single,Mobile,Premium,Cash,41708,57,0
+U625,Female,High School,Technician,City_41,Divorced,Tablet,Standard,Cash,33847,16,0
+U626,Male,Bachelor,Doctor,City_5,Married,Tablet,Basic,Net Banking,70989,24,0
+U627,Male,High School,Teacher,City_42,Married,Laptop,Standard,Credit Card,140383,69,0
+U628,Female,Bachelor,Engineer,City_23,Married,Tablet,Standard,Debit Card,19922,41,0
+U629,Male,High School,Doctor,City_17,Widowed,Laptop,Basic,Debit Card,67335,47,1
+U630,Male,Bachelor,Clerk,City_12,Divorced,Mobile,Basic,Wallet,141913,69,0
+U631,Female,Master,Teacher,City_23,Married,Mobile,Basic,Net Banking,34551,31,1
+U632,Female,Diploma,Doctor,City_16,Single,Tablet,Premium,UPI,128319,30,0
+U633,Female,Bachelor,Manager,City_3,Single,Tablet,Standard,Debit Card,70673,18,0
+U634,Female,Master,Sales,City_30,Widowed,Tablet,Free,Net Banking,116531,44,0
+U635,Male,Master,Doctor,City_22,Single,Laptop,Standard,Credit Card,37948,27,0
+U636,Male,High School,Technician,City_9,Married,Tablet,Basic,Wallet,107264,26,0
+U637,Female,Diploma,Consultant,City_29,Single,Tablet,Free,Cash,74072,60,0
+U638,Male,High School,Manager,City_47,Married,Mobile,Basic,Credit Card,82560,18,0
+U639,Male,PhD,Engineer,City_37,Single,Tablet,Basic,Debit Card,148558,56,0
+U640,Male,Master,Engineer,City_23,Divorced,Mobile,Standard,Debit Card,81691,31,0
+U641,Male,Bachelor,Engineer,City_13,Widowed,Tablet,Free,Credit Card,117781,59,1
+U642,Male,Master,Engineer,City_32,Widowed,Mobile,Standard,Debit Card,99105,2,0
+U643,Male,Bachelor,Consultant,City_46,Divorced,Tablet,Basic,Net Banking,22086,39,0
+U644,Male,Bachelor,Doctor,City_47,Divorced,Mobile,Free,Debit Card,142818,61,0
+U645,Male,High School,Analyst,City_48,Widowed,Laptop,Premium,Wallet,82853,63,0
+U646,Female,Master,Doctor,City_23,Divorced,Mobile,Basic,Net Banking,116925,18,0
+U647,Female,High School,Clerk,City_45,Married,Mobile,Free,UPI,85027,17,0
+U648,Female,Master,Sales,City_17,Single,Mobile,Basic,Debit Card,30916,39,0
+U649,Female,Master,Teacher,City_40,Widowed,Tablet,Standard,Debit Card,30248,71,0
+U650,Female,Bachelor,Analyst,City_21,Divorced,Tablet,Free,Wallet,39226,54,1
+U651,Male,High School,Analyst,City_2,Married,Tablet,Free,Wallet,63380,35,0
+U652,Female,Diploma,Doctor,City_37,Widowed,Laptop,Free,Cash,22848,11,0
+U653,Female,Diploma,Analyst,City_6,Divorced,Laptop,Free,Credit Card,29274,61,0
+U654,Female,Diploma,HR,City_44,Widowed,Mobile,Standard,Credit Card,69545,44,0
+U655,Male,High School,HR,City_18,Divorced,Laptop,Basic,Credit Card,111494,68,1
+U656,Male,PhD,Clerk,City_30,Widowed,Mobile,Free,Wallet,130981,25,0
+U657,Male,Bachelor,Teacher,City_22,Married,Mobile,Free,Credit Card,31304,48,0
+U658,Male,Diploma,Technician,City_33,Married,Mobile,Free,Credit Card,26294,32,0
+U659,Female,Diploma,Consultant,City_30,Single,Laptop,Premium,UPI,41425,4,0
+U660,Female,Diploma,Doctor,City_17,Widowed,Tablet,Free,Credit Card,125777,38,0
+U661,Male,Bachelor,Consultant,City_43,Single,Laptop,Premium,Debit Card,106549,63,0
+U662,Other,Bachelor,Technician,City_32,Widowed,Mobile,Basic,Cash,108464,47,0
+U663,Female,Master,Doctor,City_42,Divorced,Mobile,Free,Wallet,121748,1,0
+U664,Male,Bachelor,Doctor,City_14,Divorced,Laptop,Standard,Net Banking,83295,3,0
+U665,Male,PhD,Teacher,City_10,Single,Mobile,Basic,Cash,31091,62,0
+U666,Male,Master,Consultant,City_47,Widowed,Mobile,Standard,UPI,134943,64,0
+U667,Male,High School,HR,City_36,Single,Laptop,Premium,Wallet,146074,17,1
+U668,Male,PhD,Engineer,City_34,Married,Laptop,Free,Wallet,65411,62,0
+U669,Male,High School,Consultant,City_9,Single,Laptop,Free,Debit Card,110696,35,0
+U670,Male,Master,Sales,City_42,Single,Mobile,Standard,Cash,86309,13,0
+U671,Male,Diploma,Sales,City_28,Divorced,Mobile,Free,Cash,82421,35,0
+U672,Female,Master,Doctor,City_11,Single,Tablet,Free,Credit Card,55612,43,0
+U673,Male,Master,Engineer,City_14,Widowed,Tablet,Free,Debit Card,28450,2,1
+U674,Female,Master,Manager,City_39,Divorced,Laptop,Free,Credit Card,24491,56,0
+U675,Male,Master,Technician,City_47,Single,Tablet,Standard,Credit Card,132026,51,0
+U676,Other,Diploma,Clerk,City_19,Married,Mobile,Free,Wallet,89804,54,0
+U677,Male,High School,Engineer,City_15,Single,Tablet,Basic,Cash,108293,16,0
+U678,Male,Diploma,Clerk,City_28,Single,Mobile,Basic,Credit Card,134498,18,0
+U679,Other,High School,Consultant,City_24,Single,Laptop,Basic,UPI,120475,7,1
+U680,Female,Bachelor,Consultant,City_8,Divorced,Laptop,Free,UPI,43314,45,0
+U681,Female,Diploma,Clerk,City_43,Widowed,Mobile,Standard,Cash,66883,36,0
+U682,Male,PhD,Technician,City_9,Married,Tablet,Free,UPI,102086,41,0
+U683,Male,Bachelor,Engineer,City_47,Single,Laptop,Standard,Wallet,116291,42,0
+U684,Female,Master,Manager,City_33,Widowed,Laptop,Standard,Debit Card,24967,7,1
+U685,Female,High School,Doctor,City_33,Widowed,Tablet,Basic,Net Banking,58220,15,0
+U686,Female,Master,Teacher,City_19,Divorced,Tablet,Basic,Credit Card,71131,60,0
+U687,Female,Master,Consultant,City_3,Married,Mobile,Basic,Net Banking,43876,40,0
+U688,Male,Bachelor,Sales,City_10,Divorced,Tablet,Basic,Debit Card,116448,37,1
+U689,Female,Bachelor,Technician,City_40,Widowed,Tablet,Standard,Debit Card,64228,66,1
+U690,Male,Master,Teacher,City_47,Widowed,Tablet,Standard,Wallet,89495,55,0
+U691,Male,High School,Manager,City_42,Widowed,Mobile,Free,UPI,43261,56,0
+U692,Male,Bachelor,Analyst,City_1,Divorced,Mobile,Basic,UPI,121601,44,0
+U693,Female,Diploma,Doctor,City_29,Married,Laptop,Premium,Debit Card,76260,57,0
+U694,Male,High School,Consultant,City_50,Single,Mobile,Premium,Wallet,149418,6,0
+U695,Male,Diploma,Doctor,City_34,Divorced,Laptop,Basic,Wallet,71176,32,0
+U696,Female,High School,Teacher,City_13,Widowed,Tablet,Basic,Cash,67300,18,0
+U697,Male,High School,Doctor,City_1,Divorced,Laptop,Free,Credit Card,48012,68,0
+U698,Female,High School,Analyst,City_34,Widowed,Laptop,Premium,UPI,117153,7,1
+U699,Male,PhD,Teacher,City_29,Single,Tablet,Free,Debit Card,88273,8,0
+U700,Female,Bachelor,Consultant,City_48,Single,Laptop,Basic,Cash,127328,64,0
+U701,Female,PhD,Engineer,City_47,Married,Mobile,Free,Net Banking,125304,7,0
+U702,Male,Diploma,Sales,City_13,Widowed,Mobile,Free,UPI,121637,41,0
+U703,Male,Diploma,Teacher,City_48,Married,Mobile,Basic,Credit Card,69639,40,0
+U704,Male,Bachelor,HR,City_49,Married,Mobile,Premium,Wallet,136939,3,1
+U705,Male,Diploma,Analyst,City_29,Single,Laptop,Free,Debit Card,22310,17,0
+U706,Other,High School,Teacher,City_39,Divorced,Laptop,Basic,UPI,117944,66,1
+U707,Male,Bachelor,Teacher,City_24,Divorced,Tablet,Free,Net Banking,137013,52,0
+U708,Female,High School,HR,City_26,Married,Laptop,Free,Credit Card,91733,22,0
+U709,Male,Bachelor,Consultant,City_17,Single,Laptop,Basic,Credit Card,124264,4,0
+U710,Female,Bachelor,Teacher,City_7,Widowed,Laptop,Basic,Cash,94071,6,0
+U711,Female,High School,Sales,City_13,Divorced,Tablet,Free,UPI,137611,38,0
+U712,Female,High School,Doctor,City_5,Married,Mobile,Free,Net Banking,85658,26,1
+U713,Male,Master,Consultant,City_26,Divorced,Laptop,Free,Credit Card,24852,11,1
+U714,Male,Bachelor,Sales,City_49,Divorced,Tablet,Free,Debit Card,20387,17,1
+U715,Male,High School,Consultant,City_3,Widowed,Tablet,Premium,Credit Card,142571,31,0
+U716,Female,PhD,Sales,City_7,Single,Tablet,Premium,Net Banking,112295,35,1
+U717,Female,High School,Analyst,City_49,Widowed,Mobile,Free,Wallet,145381,16,0
+U718,Other,Bachelor,Sales,City_39,Single,Laptop,Basic,Wallet,54994,18,0
+U719,Male,PhD,Clerk,City_1,Divorced,Tablet,Premium,Cash,131912,62,0
+U720,Female,High School,Sales,City_49,Married,Mobile,Free,UPI,146632,27,0
+U721,Female,High School,Engineer,City_17,Widowed,Tablet,Standard,Net Banking,139210,35,0
+U722,Male,High School,Engineer,City_43,Single,Tablet,Premium,Cash,71565,45,0
+U723,Male,Diploma,Technician,City_25,Divorced,Tablet,Free,Credit Card,16312,35,0
+U724,Female,High School,Clerk,City_3,Single,Tablet,Free,Credit Card,140882,28,1
+U725,Female,Bachelor,Clerk,City_15,Single,Tablet,Premium,Wallet,102566,9,0
+U726,Female,High School,Doctor,City_29,Single,Mobile,Basic,Cash,36329,15,0
+U727,Male,Bachelor,Clerk,City_43,Divorced,Laptop,Free,Wallet,83187,21,1
+U728,Female,PhD,Doctor,City_32,Married,Laptop,Free,Debit Card,90542,52,1
+U729,Male,Master,Technician,City_26,Married,Laptop,Basic,Wallet,123237,35,0
+U730,Male,Bachelor,Technician,City_16,Married,Laptop,Standard,Debit Card,129476,51,1
+U731,Male,Diploma,Analyst,City_25,Single,Mobile,Standard,Credit Card,50645,55,1
+U732,Female,Bachelor,Engineer,City_28,Divorced,Mobile,Premium,Cash,102502,44,1
+U733,Female,Bachelor,Sales,City_9,Single,Mobile,Free,Debit Card,102310,65,1
+U734,Female,Diploma,Sales,City_1,Married,Tablet,Basic,Cash,84619,25,0
+U735,Male,High School,HR,City_29,Married,Tablet,Basic,Cash,48513,47,0
+U736,Female,Master,HR,City_22,Divorced,Tablet,Basic,Debit Card,23749,56,0
+U737,Male,Diploma,Manager,City_16,Single,Laptop,Free,UPI,75645,38,0
+U738,Female,High School,Consultant,City_41,Widowed,Tablet,Premium,Wallet,68175,11,0
+U739,Male,Diploma,Analyst,City_44,Widowed,Laptop,Standard,Debit Card,65762,67,0
+U740,Male,Diploma,Manager,City_41,Married,Tablet,Basic,Credit Card,79222,15,0
+U741,Male,Master,Manager,City_7,Divorced,Laptop,Basic,Cash,27213,1,0
+U742,Male,Bachelor,Teacher,City_14,Single,Tablet,Free,Net Banking,112367,7,0
+U743,Female,Master,Teacher,City_29,Single,Tablet,Basic,Debit Card,122157,1,1
+U744,Female,High School,Manager,City_19,Married,Mobile,Standard,Wallet,47583,49,0
+U745,Male,Diploma,Clerk,City_19,Married,Tablet,Basic,Cash,143792,29,0
+U746,Female,Bachelor,Consultant,City_2,Single,Tablet,Premium,UPI,94944,26,0
+U747,Male,High School,Analyst,City_41,Single,Mobile,Basic,Credit Card,37369,45,0
+U748,Female,Diploma,Manager,City_45,Married,Laptop,Basic,UPI,130844,71,1
+U749,Female,Master,Sales,City_15,Single,Mobile,Standard,Net Banking,34510,12,0
+U750,Female,High School,Consultant,City_3,Widowed,Mobile,Free,Debit Card,27120,32,0
+U751,Male,Bachelor,Teacher,City_11,Married,Laptop,Basic,Cash,114847,20,0
+U752,Female,High School,Sales,City_46,Single,Tablet,Free,Debit Card,113575,51,0
+U753,Female,High School,Teacher,City_30,Married,Laptop,Basic,Wallet,144269,36,0
+U754,Male,High School,Teacher,City_40,Divorced,Tablet,Standard,Debit Card,20295,67,0
+U755,Male,PhD,Consultant,City_18,Married,Tablet,Basic,Credit Card,35460,1,0
+U756,Female,Master,Teacher,City_48,Married,Laptop,Standard,Net Banking,29963,27,1
+U757,Female,PhD,Technician,City_2,Divorced,Mobile,Basic,UPI,92116,40,0
+U758,Female,Bachelor,Engineer,City_32,Widowed,Laptop,Free,Net Banking,42328,14,0
+U759,Female,High School,Technician,City_8,Single,Tablet,Standard,Cash,99629,69,0
+U760,Female,Bachelor,Engineer,City_22,Divorced,Laptop,Free,Debit Card,139034,6,0
+U761,Male,Bachelor,HR,City_6,Married,Laptop,Free,Cash,36605,33,0
+U762,Male,Master,HR,City_12,Single,Tablet,Basic,UPI,125901,55,0
+U763,Male,High School,Teacher,City_47,Divorced,Mobile,Free,Cash,123241,19,1
+U764,Female,Bachelor,Analyst,City_40,Single,Laptop,Free,Wallet,62598,29,0
+U765,Male,High School,Analyst,City_36,Single,Tablet,Basic,Net Banking,87258,61,1
+U766,Female,Diploma,Engineer,City_15,Divorced,Tablet,Basic,UPI,55969,70,0
+U767,Female,Bachelor,Sales,City_28,Single,Laptop,Basic,UPI,77784,24,1
+U768,Female,Bachelor,Consultant,City_49,Widowed,Mobile,Premium,UPI,36274,23,0
+U769,Male,Diploma,Teacher,City_45,Divorced,Laptop,Basic,Credit Card,144994,10,0
+U770,Female,Diploma,Consultant,City_18,Widowed,Mobile,Standard,Net Banking,49416,54,0
+U771,Male,Bachelor,Technician,City_2,Married,Mobile,Free,Cash,115434,41,1
+U772,Female,Master,Analyst,City_13,Single,Mobile,Basic,UPI,66310,49,1
+U773,Male,Master,Clerk,City_45,Married,Mobile,Standard,Net Banking,95758,17,0
+U774,Male,PhD,Technician,City_15,Married,Laptop,Basic,UPI,45628,56,0
+U775,Female,Master,Technician,City_20,Single,Tablet,Standard,Wallet,84672,45,0
+U776,Male,Diploma,Engineer,City_29,Divorced,Tablet,Basic,Wallet,61246,30,0
+U777,Male,Bachelor,Doctor,City_42,Single,Tablet,Free,Wallet,104110,44,0
+U778,Female,Diploma,Technician,City_29,Married,Tablet,Basic,Debit Card,17810,55,1
+U779,Female,Diploma,Teacher,City_3,Married,Tablet,Basic,UPI,86688,19,0
+U780,Female,Master,Manager,City_19,Divorced,Tablet,Standard,Debit Card,80548,29,0
+U781,Female,High School,Manager,City_3,Single,Laptop,Free,Net Banking,26162,2,0
+U782,Female,Master,Teacher,City_14,Married,Mobile,Premium,Debit Card,102858,36,0
+U783,Male,Bachelor,Doctor,City_40,Widowed,Tablet,Premium,Net Banking,88535,19,0
+U784,Male,Bachelor,Doctor,City_4,Married,Laptop,Free,Net Banking,85864,7,0
+U785,Male,Bachelor,Engineer,City_11,Married,Tablet,Free,Net Banking,149693,26,0
+U786,Female,Master,Analyst,City_31,Divorced,Tablet,Standard,Cash,133371,38,1
+U787,Female,Bachelor,Consultant,City_43,Widowed,Mobile,Premium,Debit Card,104792,3,0
+U788,Male,Bachelor,Doctor,City_32,Married,Mobile,Basic,Cash,81188,66,0
+U789,Male,High School,Clerk,City_27,Married,Mobile,Free,UPI,96718,71,0
+U790,Female,Bachelor,Engineer,City_30,Widowed,Tablet,Basic,Debit Card,51558,43,1
+U791,Male,High School,HR,City_43,Single,Tablet,Standard,UPI,143938,62,1
+U792,Female,Bachelor,Sales,City_2,Single,Tablet,Free,UPI,49413,71,0
+U793,Female,Bachelor,HR,City_49,Married,Mobile,Standard,Net Banking,25435,24,0
+U794,Female,Bachelor,Engineer,City_9,Married,Laptop,Free,Debit Card,43067,39,1
+U795,Male,High School,Technician,City_28,Single,Tablet,Free,UPI,102794,68,0
+U796,Female,High School,Consultant,City_31,Divorced,Tablet,Basic,Wallet,108823,44,0
+U797,Female,Bachelor,Sales,City_34,Widowed,Tablet,Basic,UPI,84224,5,1
+U798,Female,High School,HR,City_15,Widowed,Laptop,Free,Wallet,16379,55,1
+U799,Female,High School,Sales,City_48,Divorced,Tablet,Basic,Debit Card,117547,30,0
+U800,Female,High School,Clerk,City_25,Divorced,Laptop,Free,Cash,123541,29,0
+U801,Female,PhD,Clerk,City_36,Divorced,Tablet,Free,Debit Card,129634,26,0
+U802,Male,Bachelor,Clerk,City_8,Divorced,Laptop,Free,Cash,143701,26,0
+U803,Female,Diploma,Engineer,City_9,Divorced,Tablet,Premium,Cash,72745,37,1
+U804,Female,Diploma,Consultant,City_37,Divorced,Mobile,Basic,Debit Card,118915,53,1
+U805,Male,Diploma,Engineer,City_48,Widowed,Mobile,Basic,UPI,144560,30,1
+U806,Female,Master,Manager,City_45,Divorced,Mobile,Basic,Credit Card,147797,3,0
+U807,Female,Bachelor,Technician,City_39,Single,Mobile,Premium,UPI,96406,43,0
+U808,Female,High School,Technician,City_32,Divorced,Tablet,Free,UPI,24304,7,0
+U809,Male,High School,Clerk,City_17,Divorced,Mobile,Standard,Net Banking,140555,49,0
+U810,Male,High School,Manager,City_35,Widowed,Laptop,Standard,Net Banking,85320,41,1
+U811,Other,Bachelor,Doctor,City_37,Widowed,Mobile,Basic,UPI,109488,54,0
+U812,Female,Master,Doctor,City_19,Divorced,Mobile,Free,Wallet,90591,69,0
+U813,Male,Diploma,Clerk,City_44,Widowed,Mobile,Standard,Cash,110044,27,0
+U814,Female,High School,HR,City_29,Married,Tablet,Free,Net Banking,40192,8,1
+U815,Female,High School,Engineer,City_7,Widowed,Mobile,Basic,UPI,134304,32,1
+U816,Female,PhD,Clerk,City_28,Widowed,Laptop,Standard,Credit Card,103207,64,1
+U817,Female,Diploma,Analyst,City_9,Widowed,Mobile,Free,Wallet,88741,10,0
+U818,Male,Master,Sales,City_28,Widowed,Mobile,Standard,Debit Card,31365,13,0
+U819,Male,Bachelor,Technician,City_6,Single,Mobile,Free,UPI,80792,63,0
+U820,Male,Diploma,Doctor,City_29,Single,Laptop,Standard,UPI,65575,35,0
+U821,Female,High School,Teacher,City_17,Single,Mobile,Basic,Cash,134641,61,0
+U822,Male,High School,Doctor,City_16,Divorced,Laptop,Free,Wallet,147267,54,0
+U823,Male,Bachelor,Technician,City_23,Divorced,Laptop,Free,Net Banking,68517,8,0
+U824,Male,Master,Sales,City_31,Married,Mobile,Premium,Net Banking,49012,29,0
+U825,Female,Bachelor,Technician,City_3,Single,Laptop,Free,Net Banking,36686,41,0
+U826,Female,Bachelor,Teacher,City_21,Divorced,Tablet,Free,Debit Card,47161,30,0
+U827,Male,High School,Clerk,City_26,Widowed,Mobile,Free,Wallet,17402,21,0
+U828,Male,PhD,Manager,City_36,Widowed,Mobile,Basic,Wallet,78190,11,0
+U829,Female,Master,Teacher,City_42,Single,Laptop,Basic,Net Banking,28275,2,0
+U830,Male,Diploma,Technician,City_37,Married,Laptop,Free,Net Banking,29915,50,0
+U831,Male,PhD,Technician,City_22,Married,Mobile,Free,Cash,15909,41,1
+U832,Male,Bachelor,Analyst,City_42,Widowed,Tablet,Free,Credit Card,129110,66,1
+U833,Male,Bachelor,Analyst,City_12,Married,Laptop,Free,Credit Card,80908,3,0
+U834,Male,Bachelor,Consultant,City_42,Single,Laptop,Basic,UPI,142337,51,0
+U835,Female,Master,Analyst,City_13,Widowed,Tablet,Standard,UPI,37620,68,0
+U836,Male,Bachelor,Engineer,City_11,Divorced,Tablet,Free,Wallet,49112,25,0
+U837,Female,High School,Manager,City_16,Divorced,Mobile,Basic,Wallet,17431,30,1
+U838,Male,Diploma,Sales,City_8,Married,Tablet,Basic,Debit Card,101590,11,0
+U839,Female,Master,Teacher,City_40,Widowed,Mobile,Premium,Debit Card,77175,17,0
+U840,Female,High School,Technician,City_40,Widowed,Tablet,Premium,Credit Card,132472,26,0
+U841,Male,Diploma,Consultant,City_45,Divorced,Laptop,Standard,UPI,47624,23,0
+U842,Female,Diploma,Consultant,City_2,Widowed,Mobile,Free,Credit Card,76264,56,0
+U843,Male,Diploma,Sales,City_30,Widowed,Mobile,Free,Credit Card,128766,52,0
+U844,Other,Bachelor,Manager,City_30,Widowed,Mobile,Free,UPI,147767,48,0
+U845,Male,PhD,Teacher,City_12,Married,Tablet,Free,Debit Card,115211,20,0
+U846,Male,High School,Doctor,City_10,Widowed,Laptop,Basic,Cash,134502,2,1
+U847,Male,High School,Analyst,City_44,Single,Mobile,Standard,Cash,59225,31,1
+U848,Other,High School,Clerk,City_11,Married,Mobile,Standard,Cash,147475,27,0
+U849,Female,Master,Consultant,City_15,Widowed,Mobile,Standard,UPI,25839,2,0
+U850,Female,Bachelor,Analyst,City_16,Widowed,Mobile,Basic,Net Banking,66977,4,0
+U851,Male,Diploma,Analyst,City_17,Single,Laptop,Standard,Net Banking,128050,13,0
+U852,Female,Master,Engineer,City_26,Married,Tablet,Free,Net Banking,40651,35,0
+U853,Male,Master,Manager,City_2,Divorced,Laptop,Free,Wallet,112919,66,0
+U854,Female,Master,Clerk,City_50,Divorced,Mobile,Standard,Debit Card,54963,6,1
+U855,Male,Master,Doctor,City_12,Married,Laptop,Free,Debit Card,132776,31,0
+U856,Male,Diploma,Technician,City_26,Widowed,Mobile,Basic,Wallet,94198,10,0
+U857,Male,Master,Engineer,City_23,Widowed,Tablet,Free,Credit Card,145697,21,0
+U858,Male,Bachelor,Analyst,City_18,Divorced,Tablet,Standard,Cash,78294,23,0
+U859,Female,Master,Analyst,City_32,Divorced,Tablet,Standard,Net Banking,16789,3,0
+U860,Male,Bachelor,HR,City_49,Divorced,Mobile,Free,Cash,104297,32,1
+U861,Female,Master,Clerk,City_38,Single,Laptop,Standard,Net Banking,133341,20,1
+U862,Male,Bachelor,Clerk,City_47,Divorced,Tablet,Free,Cash,59135,29,0
+U863,Female,High School,HR,City_3,Single,Mobile,Basic,Credit Card,52067,52,0
+U864,Male,Bachelor,Clerk,City_38,Married,Mobile,Standard,Cash,32357,46,1
+U865,Male,PhD,Analyst,City_3,Widowed,Laptop,Standard,Cash,53262,34,0
+U866,Female,PhD,Consultant,City_30,Divorced,Tablet,Premium,UPI,73643,61,1
+U867,Male,High School,Teacher,City_1,Widowed,Mobile,Free,Cash,106270,71,0
+U868,Male,High School,Analyst,City_30,Widowed,Laptop,Standard,UPI,84103,70,0
+U869,Female,High School,Engineer,City_45,Divorced,Tablet,Basic,Debit Card,101268,11,0
+U870,Female,Bachelor,Manager,City_32,Divorced,Laptop,Premium,Wallet,101310,63,0
+U871,Male,Master,HR,City_28,Married,Laptop,Free,Cash,52412,21,1
+U872,Male,High School,Doctor,City_21,Single,Mobile,Standard,Debit Card,62734,3,0
+U873,Female,Bachelor,Technician,City_46,Single,Mobile,Basic,UPI,102793,10,0
+U874,Male,Master,Doctor,City_13,Widowed,Mobile,Free,Cash,37228,27,0
+U875,Male,Bachelor,Analyst,City_27,Divorced,Laptop,Basic,Cash,135627,12,1
+U876,Male,Bachelor,Engineer,City_36,Married,Mobile,Free,Credit Card,92924,7,0
+U877,Female,Bachelor,Analyst,City_7,Married,Laptop,Basic,Debit Card,26319,17,1
+U878,Female,Bachelor,Manager,City_22,Married,Laptop,Standard,Net Banking,21475,65,0
+U879,Male,Diploma,Consultant,City_10,Married,Mobile,Basic,Net Banking,44545,64,0
+U880,Male,Bachelor,Technician,City_39,Married,Tablet,Basic,Credit Card,111636,26,0
+U881,Male,Bachelor,Manager,City_15,Single,Tablet,Basic,UPI,45615,15,0
+U882,Female,Master,HR,City_15,Single,Tablet,Free,Net Banking,28746,33,0
+U883,Male,Bachelor,HR,City_4,Single,Laptop,Free,Net Banking,16245,62,0
+U884,Male,Master,Analyst,City_32,Divorced,Laptop,Basic,Wallet,132408,47,0
+U885,Female,High School,Engineer,City_23,Widowed,Laptop,Free,Debit Card,127143,35,0
+U886,Male,Bachelor,Manager,City_6,Married,Mobile,Free,UPI,42632,65,0
+U887,Female,High School,Sales,City_24,Divorced,Laptop,Basic,Cash,27856,25,0
+U888,Male,High School,Engineer,City_20,Married,Mobile,Free,Debit Card,83049,57,0
+U889,Male,Bachelor,Consultant,City_37,Single,Mobile,Free,UPI,73182,32,0
+U890,Male,PhD,HR,City_20,Divorced,Tablet,Basic,Net Banking,148873,63,1
+U891,Female,High School,Analyst,City_12,Single,Tablet,Free,Wallet,70654,12,0
+U892,Female,Diploma,Clerk,City_33,Married,Tablet,Premium,Debit Card,70381,63,0
+U893,Female,Master,HR,City_28,Married,Mobile,Standard,Net Banking,73601,1,0
+U894,Male,High School,Technician,City_8,Widowed,Mobile,Standard,UPI,15364,51,0
+U895,Female,Bachelor,Teacher,City_1,Married,Mobile,Free,Debit Card,22436,70,0
+U896,Male,Bachelor,Clerk,City_37,Single,Laptop,Standard,Cash,101713,8,0
+U897,Male,Bachelor,Analyst,City_22,Married,Mobile,Standard,Debit Card,75194,68,0
+U898,Female,High School,Sales,City_6,Widowed,Tablet,Standard,Net Banking,39544,5,0
+U899,Male,Diploma,Clerk,City_21,Widowed,Tablet,Free,Debit Card,78295,39,1
+U900,Male,Master,Technician,City_32,Single,Mobile,Basic,Cash,84409,23,1
+U901,Male,Bachelor,Engineer,City_35,Divorced,Mobile,Standard,Wallet,141839,68,0
+U902,Male,High School,Sales,City_15,Married,Tablet,Basic,Wallet,128759,52,0
+U903,Male,Master,HR,City_5,Widowed,Mobile,Basic,Net Banking,32157,4,1
+U904,Female,High School,Sales,City_46,Married,Tablet,Basic,UPI,80888,47,1
+U905,Male,Bachelor,Manager,City_50,Married,Laptop,Basic,Net Banking,79947,21,0
+U906,Female,High School,Technician,City_48,Divorced,Tablet,Free,Wallet,85880,56,0
+U907,Female,PhD,Clerk,City_6,Widowed,Laptop,Basic,Credit Card,19507,66,1
+U908,Male,Diploma,Manager,City_25,Married,Mobile,Free,Credit Card,118134,59,0
+U909,Male,Diploma,Sales,City_46,Widowed,Mobile,Basic,Debit Card,58988,7,0
+U910,Male,High School,Manager,City_40,Single,Laptop,Free,Cash,113421,49,0
+U911,Female,Diploma,Doctor,City_29,Single,Mobile,Basic,Debit Card,117591,16,1
+U912,Male,Master,Technician,City_7,Married,Laptop,Free,Credit Card,144614,17,1
+U913,Female,PhD,Consultant,City_40,Widowed,Mobile,Standard,Wallet,42213,34,0
+U914,Male,Diploma,Engineer,City_13,Married,Tablet,Standard,Debit Card,72450,33,0
+U915,Female,Diploma,Sales,City_38,Widowed,Mobile,Free,Net Banking,77222,26,0
+U916,Male,Bachelor,Technician,City_18,Widowed,Tablet,Free,Cash,27755,66,1
+U917,Male,Master,Consultant,City_2,Divorced,Tablet,Free,Net Banking,146937,63,0
+U918,Female,Bachelor,Consultant,City_8,Divorced,Laptop,Standard,Cash,48371,41,1
+U919,Female,Diploma,Analyst,City_11,Divorced,Mobile,Basic,Wallet,20192,58,0
+U920,Male,Diploma,Manager,City_33,Married,Laptop,Basic,Debit Card,17015,10,1
+U921,Female,Bachelor,Consultant,City_38,Divorced,Mobile,Free,Cash,123154,15,0
+U922,Female,High School,Doctor,City_48,Divorced,Tablet,Basic,Net Banking,43343,42,0
+U923,Female,Bachelor,Technician,City_27,Single,Tablet,Standard,Debit Card,84306,57,0
+U924,Female,Diploma,Teacher,City_20,Widowed,Mobile,Standard,Debit Card,20829,17,0
+U925,Male,Master,Teacher,City_12,Widowed,Mobile,Basic,Net Banking,49381,60,1
+U926,Male,High School,Sales,City_43,Divorced,Laptop,Free,Credit Card,126451,9,0
+U927,Male,Bachelor,HR,City_31,Widowed,Mobile,Free,Cash,33263,36,0
+U928,Female,Bachelor,Manager,City_27,Single,Mobile,Free,Net Banking,73418,36,0
+U929,Female,Bachelor,HR,City_32,Single,Mobile,Free,Wallet,15148,48,1
+U930,Male,High School,Consultant,City_10,Divorced,Laptop,Free,UPI,147826,51,0
+U931,Male,Bachelor,Technician,City_3,Single,Mobile,Free,Net Banking,41745,70,0
+U932,Female,Bachelor,Sales,City_45,Widowed,Tablet,Basic,Debit Card,87914,68,1
+U933,Other,Bachelor,Clerk,City_27,Married,Laptop,Premium,Debit Card,75653,22,0
+U934,Female,Bachelor,Consultant,City_35,Widowed,Laptop,Basic,Net Banking,93315,6,0
+U935,Male,Bachelor,Manager,City_31,Married,Tablet,Standard,UPI,46075,26,0
+U936,Male,Master,Teacher,City_15,Divorced,Tablet,Standard,Net Banking,24795,3,0
+U937,Male,Diploma,Analyst,City_16,Married,Tablet,Free,UPI,79555,52,1
+U938,Female,Master,Technician,City_13,Single,Mobile,Standard,UPI,118107,60,1
+U939,Male,Bachelor,Engineer,City_49,Widowed,Tablet,Free,Wallet,66529,63,0
+U940,Female,High School,HR,City_35,Married,Mobile,Basic,Cash,26009,65,0
+U941,Male,High School,Sales,City_11,Widowed,Laptop,Free,Debit Card,44381,52,0
+U942,Female,Diploma,HR,City_21,Divorced,Laptop,Premium,Debit Card,142769,14,0
+U943,Female,Master,Technician,City_11,Divorced,Tablet,Free,UPI,79610,68,0
+U944,Female,Bachelor,HR,City_30,Single,Mobile,Free,Debit Card,83122,28,1
+U945,Male,Master,Technician,City_48,Divorced,Tablet,Premium,Credit Card,83184,71,0
+U946,Male,Bachelor,HR,City_35,Married,Tablet,Free,UPI,102228,10,0
+U947,Male,Diploma,Doctor,City_22,Divorced,Mobile,Standard,Debit Card,87943,57,1
+U948,Female,High School,Clerk,City_38,Single,Tablet,Standard,Credit Card,95770,66,1
+U949,Female,Diploma,Consultant,City_31,Widowed,Laptop,Standard,Wallet,67726,50,0
+U950,Female,Diploma,Consultant,City_14,Widowed,Tablet,Premium,Debit Card,62780,14,1
+U951,Female,High School,Manager,City_24,Divorced,Mobile,Premium,Credit Card,57503,16,0
+U952,Female,High School,Engineer,City_50,Married,Mobile,Free,Net Banking,72893,54,0
+U953,Male,Bachelor,Engineer,City_49,Single,Laptop,Standard,Cash,76358,43,0
+U954,Female,Bachelor,Manager,City_32,Married,Mobile,Basic,Net Banking,95857,42,0
+U955,Male,PhD,Analyst,City_36,Single,Mobile,Basic,Credit Card,135457,22,0
+U956,Male,PhD,Consultant,City_32,Divorced,Laptop,Free,UPI,132928,68,1
+U957,Female,Bachelor,Analyst,City_15,Single,Tablet,Standard,UPI,73706,19,1
+U958,Male,Diploma,Technician,City_43,Single,Laptop,Premium,Debit Card,97806,66,0
+U959,Male,Bachelor,Technician,City_35,Divorced,Tablet,Premium,Net Banking,70006,39,0
+U960,Female,Master,Teacher,City_3,Married,Laptop,Basic,UPI,102238,19,0
+U961,Male,High School,HR,City_16,Divorced,Tablet,Free,UPI,60798,16,0
+U962,Female,Diploma,Engineer,City_5,Single,Laptop,Basic,Net Banking,92271,54,1
+U963,Male,Master,Teacher,City_21,Divorced,Tablet,Standard,Wallet,45177,25,0
+U964,Male,Diploma,Clerk,City_10,Single,Laptop,Standard,UPI,143022,18,0
+U965,Male,Bachelor,Manager,City_19,Divorced,Tablet,Basic,Cash,145156,23,0
+U966,Male,Bachelor,Manager,City_25,Widowed,Laptop,Free,Credit Card,97215,11,0
+U967,Female,High School,Technician,City_4,Widowed,Mobile,Basic,Debit Card,58013,39,0
+U968,Male,Diploma,Consultant,City_29,Divorced,Tablet,Basic,UPI,97600,68,0
+U969,Female,Diploma,Analyst,City_19,Married,Laptop,Premium,Cash,111099,25,0
+U970,Male,High School,Engineer,City_43,Single,Tablet,Basic,Cash,68450,63,0
+U971,Female,High School,Teacher,City_2,Widowed,Tablet,Free,UPI,137640,30,0
+U972,Female,Master,Analyst,City_10,Married,Laptop,Basic,Wallet,107403,45,0
+U973,Female,Diploma,Teacher,City_43,Single,Tablet,Free,Credit Card,114290,61,1
+U974,Male,Bachelor,HR,City_25,Widowed,Laptop,Premium,Debit Card,146832,51,1
+U975,Male,Diploma,Clerk,City_20,Widowed,Mobile,Basic,UPI,39142,9,1
+U976,Male,PhD,Clerk,City_48,Divorced,Tablet,Basic,Debit Card,125189,2,0
+U977,Female,Diploma,Analyst,City_19,Single,Mobile,Basic,Net Banking,122532,5,0
+U978,Male,Diploma,Analyst,City_23,Married,Tablet,Standard,Cash,146436,62,0
+U979,Female,Master,Analyst,City_24,Married,Tablet,Standard,Cash,71921,69,1
+U980,Female,Master,Teacher,City_11,Married,Tablet,Standard,UPI,34797,52,0
+U981,Male,High School,HR,City_46,Single,Laptop,Free,UPI,47535,5,0
+U982,Female,Master,Doctor,City_34,Married,Mobile,Free,Net Banking,61300,59,0
+U983,Male,Bachelor,Analyst,City_28,Married,Tablet,Free,Wallet,62176,68,0
+U984,Male,Bachelor,Consultant,City_5,Married,Laptop,Standard,UPI,31105,9,0
+U985,Female,High School,Engineer,City_5,Divorced,Tablet,Free,Cash,94472,22,0
+U986,Female,High School,Engineer,City_21,Divorced,Laptop,Basic,Debit Card,93097,27,1
+U987,Female,Bachelor,Teacher,City_12,Single,Tablet,Standard,Credit Card,111160,10,0
+U988,Male,Bachelor,Analyst,City_50,Single,Mobile,Standard,Debit Card,61940,61,1
+U989,Male,Diploma,Technician,City_4,Married,Mobile,Basic,Wallet,100001,51,0
+U990,Female,Bachelor,Manager,City_49,Divorced,Tablet,Basic,Credit Card,22928,10,1
+U991,Female,Master,Doctor,City_42,Widowed,Laptop,Free,Debit Card,63002,6,0
+U992,Female,High School,Consultant,City_20,Widowed,Tablet,Standard,Debit Card,99853,62,0
+U993,Male,Bachelor,HR,City_38,Married,Laptop,Standard,Net Banking,129614,5,0
+U994,Female,High School,Technician,City_25,Married,Tablet,Free,Wallet,132517,70,0
+U995,Male,Master,Clerk,City_14,Divorced,Laptop,Basic,Cash,94064,63,0
+U996,Male,Bachelor,Technician,City_11,Divorced,Mobile,Standard,Net Banking,134694,56,0
+U997,Female,PhD,Teacher,City_32,Divorced,Tablet,Standard,Credit Card,147631,59,0
+U998,Male,High School,Doctor,City_11,Single,Mobile,Free,Cash,65893,63,0
+U999,Female,High School,Sales,City_18,Single,Mobile,Basic,Net Banking,30167,59,1
+U1000,Male,Diploma,Sales,City_27,Married,Tablet,Free,Wallet,53598,51,1

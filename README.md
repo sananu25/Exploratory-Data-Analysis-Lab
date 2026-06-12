@@ -65,4 +65,4 @@ The datasets used for analysis are included in the repository.
 ## Author
 
 Santanu Mondal
-- B.Tech CSE (AI & ML)
+B.Tech CSE (AI & ML)

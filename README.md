@@ -31,15 +31,15 @@ Lab-02
 - Correlation Analysis
 - Feature Engineering
 - Data Visualization
-- 
+
 Lab-03 
 
 - Encoding Techniques :
 
-1. lavel encoding
-2. ordinal encoding
-3. category encoding
-4. binary encoding
+- lavel encoding
+- ordinal encoding
+- category encoding
+- binary encoding
 
 
 Lab-04

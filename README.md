@@ -34,7 +34,7 @@ Lab-02
 
 Lab-03 
 
-- Encoding Techniques :
+Encoding Techniques :
 
 - lavel encoding
 - ordinal encoding

@@ -41,11 +41,22 @@ Lab-03
 3. category encoding
 4. binary encoding
 
+
 Lab-04
+
 - Apply Box-Cox and Yeo-Johnson transformations
 - Analyze feature distributions
 - Train and evaluate Linear Regression models
 - Compare model performance before and after transformation
+
+
+Lab-05
+
+-Min-Max Scaling
+-Mean Normalization
+-Max-Abs Scaling
+-Robust Scaling
+-Standardization (Z-score)
 
 ## Dataset
 

@@ -56,7 +56,10 @@ Lab-05
 - Mean Normalization 
 - Max-Abs Scaling 
 - Robust Scaling 
-- Standardization (Z-score) 
+- Standardization (Z-score)
+
+Lab-06
+
 
 ## Dataset
 

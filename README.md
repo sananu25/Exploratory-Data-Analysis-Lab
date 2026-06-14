@@ -58,7 +58,17 @@ Lab-05
 - Robust Scaling 
 - Standardization (Z-score)
 
+
 Lab-06
+
+- Dataset loading and inspection
+- Statistical summary of data
+- Top countries by confirmed cases
+- Top countries by deaths
+- Bar charts and line plots
+- Scatter plot of confirmed cases vs deaths
+- Death rate analysis
+- Pie chart visualization
 
 
 ## Dataset

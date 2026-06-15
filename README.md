@@ -70,6 +70,12 @@ Lab-06
 - Death rate analysis
 - Pie chart visualization
 
+Lab-07
+
+
+
+
+
 
 ## Dataset
 

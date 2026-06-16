@@ -25,6 +25,7 @@ Lab-01
 - Summary Statistics
 - Visualization
 
+
 Lab-02
 - Advanced Data Analysis
 - Correlation Analysis
@@ -39,6 +40,7 @@ Encoding Techniques :
 - ordinal encoding
 - category encoding
 - binary encoding
+
 
 
 Lab-04
@@ -58,6 +60,7 @@ Lab-05
 - Standardization (Z-score)
 
 
+
 Lab-06
 
 - Dataset loading and inspection
@@ -68,6 +71,7 @@ Lab-06
 - Scatter plot of confirmed cases vs deaths
 - Death rate analysis
 - Pie chart visualization
+
 
 Lab-07
 

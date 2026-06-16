@@ -72,7 +72,12 @@ Lab-06
 
 Lab-07
 
-
+- Data loading and inspection
+- Handling missing values
+- Statistical analysis
+- Data visualization
+- Correlation analysis
+- Feature exploration
 
 
 

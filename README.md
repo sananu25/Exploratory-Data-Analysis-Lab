@@ -82,7 +82,17 @@ Lab-07
 - Correlation analysis
 - Feature exploration
 
+Lab-08
 
+* Data loading and inspection
+* Train-test split
+* Logistic Regression model
+* Pipeline creation
+* Sequential Feature Selection (SFS)
+* Forward Selection
+* Backward Selection
+* Cross-validation
+* Model accuracy comparison
 
 
 ## Dataset

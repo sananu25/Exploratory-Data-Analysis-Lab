@@ -94,6 +94,13 @@ Lab-08
 * Cross-validation
 * Model accuracy comparison
 
+Lab-Exam 
+
+* Data loading and exploration
+* Label Encoding
+* One-Hot Encoding
+* Feature transformation
+* Data preprocessing
 
 ## Dataset
 

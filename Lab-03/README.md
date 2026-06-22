@@ -7,3 +7,7 @@
 3. category encoding
 4. binary encoding
    
+## Author
+
+Santanu Mondal
+B.Tech CSE (AI & ML)

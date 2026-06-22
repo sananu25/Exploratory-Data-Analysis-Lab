@@ -29,4 +29,8 @@ This repository contains the implementation of **Power Transformations (Box-Cox 
 
 The project demonstrates how power transformations can reduce skewness and improve machine learning model performance.
 
-**Author:** Santanu Mondal
+## Author
+
+Santanu Mondal
+B.Tech CSE (AI & ML)
+

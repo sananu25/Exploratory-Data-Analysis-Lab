@@ -13,3 +13,8 @@ To perform Exploratory Data Analysis on the given dataset.
 - NumPy
 - Matplotlib
 - Seaborn
+
+## Author
+
+Santanu Mondal
+B.Tech CSE (AI & ML)

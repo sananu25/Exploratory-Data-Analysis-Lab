@@ -24,6 +24,7 @@ This lab demonstrates **feature selection techniques** using Sequential Feature 
 * Cross-validation
 * Model accuracy comparison
 
+
 ## Workflow
 
 1. Load the dataset.

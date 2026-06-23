@@ -3,6 +3,8 @@
 
 ## Aim
 To perform exploratory data analysis and visualize the dataset using Python.
+## file
+titanic_toy(1).csv
 
 ## Tools Used
 - Python

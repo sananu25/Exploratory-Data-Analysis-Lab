@@ -57,6 +57,7 @@ The notebook compares:
 * Selected features from backward selection
 * Accuracy after backward selection
 
+
 ## Tools and Technologies
 
 * Python

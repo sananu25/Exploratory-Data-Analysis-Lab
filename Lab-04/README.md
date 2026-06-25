@@ -3,11 +3,13 @@
 
 This repository contains the implementation of **Power Transformations (Box-Cox and Yeo-Johnson)** on the Concrete Strength dataset.
 
+
 ## Contents
 
 * `EDA.LAB4.ipynb` – Jupyter Notebook
 * `concrete_data.csv` – Dataset
 * `README.md` – Documentation
+
 
 ## Objectives
 
@@ -15,6 +17,7 @@ This repository contains the implementation of **Power Transformations (Box-Cox 
 * Analyze feature distributions
 * Train and evaluate Linear Regression models
 * Compare model performance before and after transformation
+
 
 ## Tools Used
 
@@ -32,5 +35,5 @@ The project demonstrates how power transformations can reduce skewness and impro
 ## Author
 
 Santanu Mondal
-B.Tech CSE (AI & ML)
+B.Tech - CSE(AI & ML)
 

@@ -27,15 +27,15 @@ This lab demonstrates **feature selection techniques** using Sequential Feature 
 
 ## Workflow
 
-1. Load the dataset.
-2. Explore the dataset using `head()`, `info()`, and `describe()`.
-3. Separate features and target variable.
-4. Split the data into training and testing sets.
-5. Create a Logistic Regression pipeline.
-6. Apply Forward Sequential Feature Selection.
-7. Apply Backward Sequential Feature Selection.
-8. Evaluate the model using cross-validation accuracy.
-9. Compare baseline accuracy with the accuracies obtained after feature selection.
+1. Load the dataset
+2. Explore the dataset using `head()`, `info()`, and `describe()`
+3. Separate features and target variable
+4. Split the data into training and testing sets
+5. Create a Logistic Regression pipeline
+6. Apply Forward Sequential Feature Selection
+8. Apply Backward Sequential Feature Selection
+9. Evaluate the model using cross-validation accuracy
+10. Compare baseline accuracy with the accuracies obtained after feature selection
 
 ## Techniques Implemented
 

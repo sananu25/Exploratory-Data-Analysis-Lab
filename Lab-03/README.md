@@ -7,6 +7,12 @@
 3. category encoding
 4. binary encoding
 
+## tools uses
+1. matplotlib
+2. pandas
+3. numpy
+4. seaborn
+   
    
 ## Author
 
